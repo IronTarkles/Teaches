@@ -28,20 +28,6 @@ On the city board is a reputation track that does two different things. Any time
 
 When you gen a reputation (looks like a medal), first move Freud’s marker and then yours. If any marker crosses a line with the little face on the track, this make’s Freud’s meeple move locations, and this can happen multiple times in a turn.
 
-![activate rep track](images/um_activate_rep_track.png)
-
-*This icon triggers the reputation track. When this happens you score points/coffee show at the zone above the track in the section where your marker is.Then look at the zone below the track. You can perform any one action from Freud’s section or lower.*
-
-<div style="display: flex; align-items: center; gap: 1em;">
-
-  <img src="images/um_activate_rep_track.png" alt="Example" width="150"/>
-
-  <div>
-    <p>This icon triggers the reputation track. When this happens you score points/coffee show at the zone above the track in the section where your marker is.Then look at the zone below the track. You can perform any one action from Freud’s section or lower.</p>
-  </div>
-
-</div>
-
 <div markdown style="display: grid; grid-template-columns: 150px 1fr; gap: 1em; align-items: center;">
 
 ![Icon](images/um_activate_rep_track.png)

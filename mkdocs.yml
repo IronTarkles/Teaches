@@ -4,7 +4,7 @@ theme:
 markdown_extensions:
   - attr_list  # Allows adding HTML-style attributes like {.class}
   - md_in_html # Allows Markdown inside raw HTML blocks (like <div>)
- # - admonition
+  - admonition
  # - codehilite
  # - toc:
  #   permalink: true
