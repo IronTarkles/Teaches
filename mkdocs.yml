@@ -1,3 +1,12 @@
 site_name: Board Game Teaches
 theme:
   name: material
+markdown_extensions:
+  - attr_list  # Allows adding HTML-style attributes like {.class}
+  - md_in_html # Allows Markdown inside raw HTML blocks (like <div>)
+  - admonition
+  - codehilite
+  - toc:
+    permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
