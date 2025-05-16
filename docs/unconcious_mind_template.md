@@ -32,6 +32,16 @@ When you gen a reputation (looks like a medal), first move Freud’s marker and 
 
 *This icon triggers the reputation track. When this happens you score points/coffee show at the zone above the track in the section where your marker is.Then look at the zone below the track. You can perform any one action from Freud’s section or lower.*
 
+<div style="display: flex; align-items: center; gap: 1em;">
+
+  <img src="images/um_activate_rep_track.png" alt="Example" width="150"/>
+
+  <div>
+    <p>This icon triggers the reputation track. When this happens you score points/coffee show at the zone above the track in the section where your marker is.Then look at the zone below the track. You can perform any one action from Freud’s section or lower.</p>
+  </div>
+
+</div>
+
 
 # Heading
 - Bullet point
