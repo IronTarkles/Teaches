@@ -52,35 +52,35 @@ Take a family memeber from your home (not the tower), place it on a location, an
 
 ### Free access locations:
 - Haystack (purple)
- - Place an urchin from your reserve next to the family member you just placed here
- - This is how you get more workers
+  - Place an urchin from your reserve next to the family member you just placed here
+  - This is how you get more workers
 - Banquet (green)
- - Take the next tower floor from your reserve and place it in your tower
- - Expanding tower allows more guests, store more barrels, and shelter more family members
+  - Take the next tower floor from your reserve and place it in your tower
+  - Expanding tower allows more guests, store more barrels, and shelter more family members
 - Bank (yellow)
- - Receive 2 Florins plus one for each guest (not family member) housed in your tower
- - Florins allow you to access some locations or can be converted into Drachmas
+  - Receive 2 Florins plus one for each guest (not family member) housed in your tower
+  - Florins allow you to access some locations or can be converted into Drachmas
 - Courtyard (blue)
- - Perform up to two optional actions:
-  - Transfer 1 or 2 of your family members from your tower to your home
-  - Reorganize your towers: Arrange the guests, barrels and family memebers however you like without adding or removing anything
+  - Perform up to two optional actions:
+    - Transfer 1 or 2 of your family members from your tower to your home
+    - Reorganize your towers: Arrange the guests, barrels and family memebers however you like without adding or removing anything
 
 ### Special locations:
 - Bonfire (yellow):
- - Perform up to 3 optional actions:
-  - Exhange up to 3 florins for drachmas
-  - Choose between moving a phlegethon cube one space to the right **OR** placing a safe passage disc on the wall
-  - Choose between paying 1 drachma to move a guardian and play its effects **OR** Pay 2 drachmas and play the river styx to advance on 1 or 2 sin tracks (its own area of the board that lets you remove a number of same colored souls in the graveyard to go up on sin tracks)
+  - Perform up to 3 optional actions:
+    - Exhange up to 3 florins for drachmas
+    - Choose between moving a phlegethon cube one space to the right **OR** placing a safe passage disc on the wall
+    - Choose between paying 1 drachma to move a guardian and play its effects **OR** Pay 2 drachmas and play the river styx to advance on 1 or 2 sin tracks (its own area of the board that lets you remove a number of same colored souls in the graveyard to go up on sin tracks)
 - Wall (red):
- - Perform up to 3 optional actions:
-  - Exhange up to 2 florins into drachmas
-  - Pay 2 drachmas and play a fraud card
-  - Move a Barrel from your tower to its space on the supply pannel for an instant reward of infamy points based on different criteria
+  - Perform up to 3 optional actions:
+    - Exhange up to 2 florins into drachmas
+    - Pay 2 drachmas and play a fraud card
+    - Move a Barrel from your tower to its space on the supply pannel for an instant reward of infamy points based on different criteria
 - Market (gray):
- - Place a barrel from the market on an empty space in your tower
- - You can never have more than one barrel of the same color
+  - Place a barrel from the market on an empty space in your tower
+  - You can never have more than one barrel of the same color
 - Palace (blue):
- - Host a gues
+  - Host a gues
 
 
 Each location contains sinners of a specific type. There  are no game pieces representing sinners. When one is accused and executed, they turn into a soul, represented by a meeple in the graveyard. Each sin is represented by the same color across the game.
