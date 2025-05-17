@@ -1,9 +1,5 @@
-```
-
-Code block for intro. Who are we, what are we doing
-
-
-```
+!!! note
+    This is how to make a callout
 
 # Heading
 - Bullet point
