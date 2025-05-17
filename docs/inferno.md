@@ -47,45 +47,88 @@ The Florence section of the board is broken up into different quarters, with two
 - Rounded locations with access requirements shown in the top left setion of their tiles. To accuse sinners here there must be a guest in your tower who matches the color of that location
 
 1. Send a family memeber to florence
-Take a family memeber from your home (not the tower), place it on a location, and perform that location's action
+Take a family memeber from your home (not the tower), place it on a location, and perform that location's action. Your family memebers consist of 4 nobles (large meeples) and 4 urchins (small meeples). The nobles start the game on your board, the urchins do not.
 - The location must be in the quadrant that matches the symbol where the soul moved in the hell phase ended
 
 ### Free access locations:
 - Haystack (purple)
-  - Place an urchin from your reserve next to the family member you just placed here
-  - This is how you get more workers
+    - Place an urchin from your reserve next to the family member you just placed here
+    - This is how you get more workers
 - Banquet (green)
-  - Take the next tower floor from your reserve and place it in your tower
-  - Expanding tower allows more guests, store more barrels, and shelter more family members
+    - Take the next tower floor from your reserve and place it in your tower
+    - Expanding tower allows more guests, store more barrels, and shelter more family members
 - Bank (yellow)
-  - Receive 2 Florins plus one for each guest (not family member) housed in your tower
-  - Florins allow you to access some locations or can be converted into Drachmas
+    - Receive 2 Florins plus one for each guest (not family member) housed in your tower
+    - Florins allow you to access some locations or can be converted into Drachmas
 - Courtyard (blue)
-  - Perform up to two optional actions:
-    - Transfer 1 or 2 of your family members from your tower to your home
-    - Reorganize your towers: Arrange the guests, barrels and family memebers however you like without adding or removing anything
+    - Perform up to two optional actions:
+        - Transfer 1 or 2 of your family members from your tower to your home
+        - Reorganize your towers: Arrange the guests, barrels and family memebers however you like without adding or removing anything
 
 ### Special locations:
 - Bonfire (yellow):
-  - Perform up to 3 optional actions:
-    - Exhange up to 3 florins for drachmas
-    - Choose between moving a phlegethon cube one space to the right **OR** placing a safe passage disc on the wall
-    - Choose between paying 1 drachma to move a guardian and play its effects **OR** Pay 2 drachmas and play the river styx to advance on 1 or 2 sin tracks (its own area of the board that lets you remove a number of same colored souls in the graveyard to go up on sin tracks)
+    - Perform up to 3 optional actions:
+        - Exhange up to 3 florins for drachmas
+        - Choose between moving a phlegethon cube one space to the right **OR** placing a safe passage disc on the wall
+        - Choose between paying 1 drachma to move a guardian and play its effects **OR** Pay 2 drachmas and play the river styx to advance on 1 or 2 sin tracks (its own area of the board that lets you remove a number of same colored souls in the graveyard to go up on sin tracks)
 - Wall (red):
-  - Perform up to 3 optional actions:
-    - Exhange up to 2 florins into drachmas
-    - Pay 2 drachmas and play a fraud card
-    - Move a Barrel from your tower to its space on the supply pannel for an instant reward of infamy points based on different criteria
+    - Perform up to 3 optional actions:
+        - Exhange up to 2 florins into drachmas
+        - Pay 2 drachmas and play a fraud card
+        - Move a Barrel from your tower to its space on the supply pannel for an instant reward of infamy points based on different criteria
 - Market (gray):
-  - Place a barrel from the market on an empty space in your tower
-  - You can never have more than one barrel of the same color
+    - Place a barrel from the market on an empty space in your tower
+    - You can never have more than one barrel of the same color
 - Palace (blue):
-  - Host a gues
+    - Take a Guest from this location and place them on an empty space in your tower, earning florings equal to the height of the floor (0-4).
+    - You can only have one guest of each color
+    - Guests allow you to accuse sinners that match their color
 
+### Fraud cards:
+![Fraud_Card](images/inf_fraud_cards.png)
+- Panel on left is all instant. Requirement to play the card up top (barrel located anywhere), choice of reward on botrtom
+- Panel on the right is all endgame. Requirement to score it on top, endgame effects on bottom
+- Barrel requirements are just a check, they are not consumed
+- When you get the action to play a fraud card, you can play it from your hand or from the lineup, or from the top of the deck. Playing from anywhere but hand requires paying 1 drachma.
+- If you play from hand, draw a new card
 
+2. Accuse a sinner
 Each location contains sinners of a specific type. There  are no game pieces representing sinners. When one is accused and executed, they turn into a soul, represented by a meeple in the graveyard. Each sin is represented by the same color across the game.
+- To accuse you must already have a family member at the location where you want to accuse a sinner and meet the requirements of that location
+- You can only accuse in the quandrant where you finished the hell phase or spend 2 drachma to choose a different quadrant
+**Steps for accusing**
+Choose a family memeber at a location and follow these steps in order:
+1. Move the family memeber who accused to an empty space in your tower. If the accusation was in a special location, send them to the floor where the guest matching that color is housed.
+2. If you have any other family members in Florence, teturn them to your home.
+3. Put a soul from the supply of the correct color into the graveyard
+4. Move your skull up one level on the sin track cooresponding to the color of the moved soul (point out the sin track). Obtain the bonus indicated on the bonus tile to the left of that sin track
+5. Move the Dante meeple down a step, activating the reward on his step
+    - Place a pagan soul (cream) into the graveyard. You may optionally play a guardian
+    - Play a fraud card
+    - Award deploma at Dante's current level. THe player with the higest positioned skull on the sin track that matches Dante's current level places a diploma in the diploma area of the same color. In case of a tie, all players do this.
+    - (last space) Earn 2 points, award the ice blue diploma, proceed to end game
 
-Your family memebers consist of 4 nobles (large meeples) and 4 urchins (small meeples). The nobles start the game on your board, the urchins do not. Over the course of the game you will send your familiy members to florence. When you accuse a sinner (because you want to or by having no family members left at home), all your family memebers will return home, with the accuser being placed in your tower. Family members in your tower can't be moved directly to florence. So with each cylce you will have fewer family memebers. Several locations will help you manage this dynamic by expanding your family at the haystack, returning meeples from the tower with the courtyard, and expanding the tower with the banquet.
+3. Family council
+When you have no more family memebers to move to Florence, and you can't accuse a sinner, you must take this action. 
+- Lose 2 infamy points and choose an option:
+    - Move a family member to your home from your tower or a location
+    - Return a guest from your tower to the Palace
+    - Return a barrel from your tower to the Market
+
+# ENDGAME
+Whenever someone accuses and forces Dante to move to the final step and award the final diploma, that is their last turn. All other players get one final turn.
+
+It is realistic to expect 1/3 of your infamy points from placing souls in hell, and earn 1/3 of your points from diplomas.
+
+### POINTS
+1. Scoring fraud cards
+    - If you have the barrels end game sides of cards require, activate them
+2. Adjust river phlegethon score
+    - cubes will move one space to the left for each empty shield at that level.
+3. Gain additional diplomas. For every 2 half diploma tokens you have you get to place a dimploma where you don't already have one.
+4. Score diplomas. Mutiply score on plegethon cube by the level where your skull is. This will provide between 1 to 20 points.
+5. Repay your loans. Each person loses points indicated on the space where their boat is.
+
 
 
 
