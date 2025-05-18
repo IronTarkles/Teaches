@@ -1,6 +1,14 @@
 site_name: Board Game Teaches
+
+nav:
+  - Big_Games:
+    - Black Forest: docs/black_forest.md
+  - Card_Games:
+    - Bid Coin: docs/bid_coin.md
+
 theme:
   name: material
+
 markdown_extensions:
   - attr_list  # Allows adding HTML-style attributes like {.class}
   - md_in_html # Allows Markdown inside raw HTML blocks (like <div>)
