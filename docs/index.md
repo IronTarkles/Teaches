@@ -1,21 +1,6 @@
-# Welcome to MkDocs
+# Welcome to Teaches by Tarkles
+I like heavy board games, but my brain doesn't like remembering things. I write teaches for games that group things together logically to be as condensed as possible, because I hate learning a game from the rulebook.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Currently working through big games and Japanese games without english rules that I own.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-SOON THERE WILL BE MORE THINGS HERE
-
-SERIOUSLY, SOON THERE WILL BE
+Project can be found at https://github.com/IronTarkles/Teaches
