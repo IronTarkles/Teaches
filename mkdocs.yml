@@ -3,8 +3,17 @@ site_name: Board Game Teaches
 nav:
   - Big_Games:
     - Black Forest: docs/black_forest.md
+    - Calimala: dos/calimala.md
+    - Cuzco: docs/cuzco.md
+    - Gaia Project: docs/gaia_project.md
+    - Great Western Trail: docs/great_western_trail.md
+    - Inferno: docs/inferno.md
+    - Revive: docs/revive.md
+    - Trickerion: docs/trickerion.md
+    - Unconcious Mind: docs/unconcious_mind_template.md
   - Card_Games:
     - Bid Coin: docs/bid_coin.md
+    - Savage Bowl: docs/savage_bowl.md
 
 theme:
   name: material
