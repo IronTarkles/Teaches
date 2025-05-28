@@ -26,14 +26,14 @@ A turn has 5 steps:
 5. Your ships completed this turn go on a shakedown cruise
     - A ship is complete when it has a bow on the left, at least 1 middle part, and a stern on the right, with no empty spaces. Ships completed after step 4 of your turn must leave your shipyard to be tested in the canal system. 
 
-# Actions
+### Actions
 1. Build Ships 
 ![build icon](images/shipyard/build_ships.png)
 - You can buy 1, 2, or 3 ship parts in any combination from the board
 - For each tile bought, pay the indicated cost of 0-2 coins each
 - A coompleted ship must have a bow, a number of middle pieces, and a stern, with no empty spaces.
 - A ship can be at most 7 pieces in total
-### Placement rules
+## Placement rules
 - Ships tiles are placed in the empty dotted spaces at the bottom of your ship board
 - Once placed, they cannot be moved or re-arranged
 - You can't fill up all your spaces unless the result is at least one completed ship
@@ -101,7 +101,7 @@ The symbols of the next actions coorespond to the part of the main board wheel w
 ![subsiy icon](images/shipyard/receive_subsidy.png)
 - Get 2 money from the bank
 
-# Shakedown Cruise
+### Shakedown Cruise
 Completing a ship during your turn means it will have to be sent on a shakedown cruise at the end of your turn. Multiple ships completed mean multiple cruises, you decide the order in which they happen.
 - Ship must be one bow, one stern, at least one middle piece, no empty spaces
 - Equipment and crew are not added to your ship until it is complete. These will stay with the ship they're placed on and not be used on a differnt ship later
@@ -140,7 +140,7 @@ Completing a ship during your turn means it will have to be sent on a shakedown 
 
 After scoring your ship, move it to the empty space at the top of your shipyard with all equipment and crew on it. End game scoring may care about features.
 
-# End of the Game
+### End of the Game
 Each time the turn marker completes a rotation, a cube is removed from the queue. When we go to remove a cube and can't, end game is triggered. We finish out the round. The game can also end if the last bow stern or middle ship tile is taken from the stack and put into the game. Game ends immediately in that case. 
 
 ## Final Action
@@ -149,6 +149,6 @@ After that, we each get one final action, ignoring cube placement, and regardles
 ## Final Ship Build
 After each player has had their final action, everyone gets the chance to build a ship. If you have a ship that only requires 1 tile to be completed, you may buy it from the market in the usual way. If a ship is completed this way, take it on a shakedown cruise like noromal
 
-# Final Scoring
+### Final Scoring
 - Reveal government contracts and score them
 - Score any points from red trader workers
