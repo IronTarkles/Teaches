@@ -1,9 +1,10 @@
 site_name: Board Game Teaches
 
+# site structure
 nav:
   - Home: index.md
   - Big_Games:
-    - Black Forest: black_forest.md
+    - Black Forest: big_games/black_forest.md
     - Calimala: calimala.md
     - Cuzco: cuzco.md
     - Gaia Project: gaia_project.md
@@ -17,8 +18,35 @@ nav:
     - Bid Coin: bid_coin.md
     - Savage Bowl: savage_bowl.md
 
+# theme
 theme:
   name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
 
 markdown_extensions:
   - attr_list  # Allows adding HTML-style attributes like {.class}
