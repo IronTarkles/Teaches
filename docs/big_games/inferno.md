@@ -85,7 +85,7 @@ Take a family memeber from your home (not the tower), place it on a location, an
     - Guests allow you to accuse sinners that match their color
 
 ### Fraud cards:
-![Fraud_Card](images/inf_fraud_cards.png)
+![Fraud_Card](images/inferno/inf_fraud_cards.png)
 - Panel on left is all instant. Requirement to play the card up top (barrel located anywhere), choice of reward on botrtom
 - Panel on the right is all endgame. Requirement to score it on top, endgame effects on bottom
 - Barrel requirements are just a check, they are not consumed

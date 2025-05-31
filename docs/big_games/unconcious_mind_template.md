@@ -30,7 +30,7 @@ When you gen a reputation (looks like a medal), first move Freud’s marker and 
 
 <div markdown style="display: grid; grid-template-columns: 150px 1fr; gap: 1em; align-items: center;">
 
-![Icon](images/um_activate_rep_track.png)
+![Icon](images/unconcious_mind/um_activate_rep_track.png)
 
 This icon triggers the reputation track. When this happens you score points/coffee show at the zone above the track in the section where your marker is.Then look at the zone below the track. You can perform any one action from Freud’s section or lower.
 
@@ -57,11 +57,11 @@ This icon triggers the reputation track. When this happens you score points/coff
 - When you move your inkpot over the printed gain idea symbol, remove the leftmost idea token and add it to your reserve
 
 # Meeting Table Actions
-![insight moves and gain 3](images/um_actions_1.png)
+![insight moves and gain 3](images/unconcious_mind/um_actions_1.png)
 - Left lets you perform 2 elevations and 1 transfer (in any order)
 - Right lets you generate one minor insight of each quality
 
-![coffee for tiles](images/um_actions_2.png)
+![coffee for tiles](images/unconcious_mind/um_actions_2.png)
 Pay coffee to gain notebook tiles
 - Left: Grab the tile from above the column
 - Mid: 
