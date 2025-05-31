@@ -45,7 +45,9 @@ Each round is split into 2 halves. The first 5 tricks and the rest of the tricks
 - 2nd half of the round
     - Yellow cards are no longer rewarded
     - Strongest card wins the trick
+
 ![halves of game](images/savage_bowl/sb_halves.png)
+
 - The player that gets the yellow card in the 5th trick will still sit out the 6th trick, no yellow cards will be awarded anymore.
 - Whoever wins the trick starts the next trick.
 - Whenever a player goes over the target number of tricks, they are eliminated from the round and will not play in anymore tricks. Their cards are placed in front of them face down.
@@ -58,6 +60,7 @@ The first player to get the target number of tricks gets the runaway champ card 
 
 # Scoring
 Round ends whenever all the tricks have been played. Players who hit the target number exactly will be awarded points based on the round number. Bonus points from the runaway champ card are only earned if the player is not eliminated
+
 ![scoring](images/savage_bowl/sb_scoring.png)
 
 # End of the round
