@@ -1,0 +1,60 @@
+# To-do list
+## Big games
+- Abomination 
+- Amun Re 
+- Arborea 
+- Autobahn 
+- Bus 
+- Carnegie 
+- Concordia 
+- Daitoshi 
+- Darwin's Journey (w/ fireland expansion) 
+- Dune (with everything but bloodlines) 
+- Endeavor: Deep Sea 
+- Eternal Decks 
+- Evacuation 
+- Feast for Odin 
+- Gallerist 
+- Grand Austria Hotel (with Letz Waltz)
+- Guards of Atlantis 2 
+- Hitodama  
+- Keep the Heroes Out 
+- La Granja 
+- Marrakesh 
+- Merv 
+- Millenium Blades 
+- Obsession (with all expansions) 
+- Praga Caput Regni 
+- SETI 
+- Shipyard 
+- Spirit Island 
+- T'zolkin 
+- Tiletum 
+- Underwater Cities
+- Unfathomable 
+- Viscounts of the West Kingdom 
+- Wayfarers of the South Tigris 
+- Windmill Valley 
+- Xia
+
+## Card games
+- Aiye
+- Luz
+- Twinkle star ship
+- Planet etuc
+- American bookshop
+- stick 'em
+- Bid coin
+- Revolve
+- Trick raiders
+- Band of tricks
+- Owl about
+- Tindahan
+- Bears
+- Bears teams
+- Witches Shot
+- Madam Watchdog Burglar
+- Dokitto Ice
+- Tornei
+- Sumida River
+- Top of Hinode Town

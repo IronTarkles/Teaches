@@ -2,21 +2,23 @@ site_name: Board Game Teaches
 
 # site structure
 nav:
-  - Home: index.md
-  - Big_Games:
+  - Home: 
+    - index.md
+    - to_do_list.md
+  - Big Games:
     - Black Forest: big_games/black_forest.md
-    - Calimala: calimala.md
-    - Cuzco: cuzco.md
-    - Gaia Project: gaia_project.md
-    - Great Western Trail: great_western_trail.md
-    - Inferno: inferno.md
-    - Revive: revive.md
-    - Shipyard: shipyard.md
-    - Trickerion: trickerion.md
-    - Unconcious Mind: unconcious_mind_template.md
-  - Card_Games:
-    - Bid Coin: bid_coin.md
-    - Savage Bowl: savage_bowl.md
+    - Calimala: big_games/calimala.md
+    - Cuzco: big_games/cuzco.md
+    - Gaia Project: big_games/gaia_project.md
+    - Great Western Trail: big_games/great_western_trail.md
+    - Inferno: big_games/inferno.md
+    - Revive: big_games/revive.md
+    - Shipyard: big_games/shipyard.md
+    - Trickerion: big_games/trickerion.md
+    - Unconcious Mind: big_games/unconcious_mind_template.md
+  - Card Games:
+    - Bid Coin: card_games/bid_coin.md
+    - Savage Bowl: card_games/savage_bowl.md
 
 # theme
 theme:
