@@ -1,0 +1,2 @@
+# Who are we
+We play gallerists, a combination of art dealer, museum curator, and artist manager. Over the course of the game we will buy works of art, exhibit them in our gallery, and possibly sell them. We'll hire assistants, play the international market, and participate in auctions. All of this with the goal of earning the most money, the richest player at the end will win!
