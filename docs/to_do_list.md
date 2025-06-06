@@ -55,5 +55,4 @@
 - Witches Shot
 - Madam Watchdog Burglar
 - Tornei
-- Sumida River
 - Top of Hinode Town
