@@ -54,7 +54,6 @@
 - Bears teams
 - Witches Shot
 - Madam Watchdog Burglar
-- Dokitto Ice
 - Tornei
 - Sumida River
 - Top of Hinode Town
