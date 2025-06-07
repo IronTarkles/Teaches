@@ -19,7 +19,9 @@ Tricks are divided into the prediciton phase and the play phase.
 ### Card Strength
 When we determine card strength, there are 2 factors.
 - First, cards are orded by suit, strongest to weakest
+
 ![suit strenght](images/tornei/tornei_suits.png)
+
 - Your player boards have a reminder of suit strength on them
 - Then, cards with the same suit are ranked by their numbers from highest to lowest
 
