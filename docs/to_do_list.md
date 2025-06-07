@@ -40,7 +40,6 @@
 ## Card games
 - Aiye
 - Luz
-- Twinkle star ship
 - Planet etuc
 - American bookshop
 - stick 'em
@@ -54,5 +53,4 @@
 - Bears teams
 - Witches Shot
 - Madam Watchdog Burglar
-- Tornei
 - Top of Hinode Town
