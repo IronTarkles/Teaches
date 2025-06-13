@@ -9,7 +9,7 @@ The game is played over a number of rounds until Freud's reputation marker moves
 - Recall Ideas
 - Treat Clients
 
-# General Concepts
+## General Concepts
 ### INSIGHT
 Each player has a large wheel to track their insight. The wheel has different wedges for the differet insight qualities, as well as different rings for the insight levels.
 
