@@ -9,8 +9,8 @@ The game is played over a number of rounds until Freud's reputation marker moves
 - Recall Ideas
 - Treat Clients
 
-# General Concepts
-## Insight
+## General Concepts
+### Insight
 Each player has a large wheel to track their insight. The wheel has different wedges for the differet insight qualities, as well as different rings for the insight levels.
 
 There is a center reserve, where generated insight is pulled from. While in the reserve, insight has no quality or level. You will start the game with only white insight, but can add ones of your player color throught the game.
@@ -23,7 +23,7 @@ To pay insight, move it from the idicated area to your reserve. You can always u
 
 There are generic colorless insight shapes that refer to any insight of the depicted level. There is a spot on your playerboard where you can trade a minor, median, and major insight for a heart shaped box.
 
-## Reputation
+### Reputation
 On the city board is a reputation track that does two different things. Any time a player one goes up, so does Freud’s. Him reaching the pocketwatch triggers the end of the game. Finish out round + one more. Gaining reputation advances the clock of the game, no matter who does it.
 
 When you gen a reputation (looks like a medal), first move Freud’s marker and then yours. If any marker crosses a line with the little face on the track, this make’s Freud’s meeple move locations, and this can happen multiple times in a turn.
@@ -38,25 +38,25 @@ This icon triggers the reputation track. When this happens you score points/coff
 !!! note
     Just remember, gaining reputation and triggering the reputation track are different things.
 
-## RESOURCES
+### Resources
  Two major resources on playerboard. Heart shaped boxes are mainly used to cure clients. Conversions in middle of board. Coffee is used for a lot, there are conversions in the bottom left of the playerboard. When you would downgrade and insight, you can pay a coffee to ignore it. You can pay 2 coffee to level up an insight or change it’s color. Coffee can also be used to gain a bright idea token, which we’ll talk about more.
 
-# Major Actions
+## Major Actions
 On your turn, you can do one of three options. The first is to state ideas. This is how you take the main actions in the game
 
-## State Ideas
+### State Ideas
 Ideas are the little speech bubbles in the bottom left of your playerboard. To perform this action you will grab 1 or 2 ideas and place them onto an empty idea space on the meeting table, pointing the tail at the action you want to perform. Placing one idea lets you do the action once, 2 ideas lets you do it twice. You can’t point the tails at an action that you have other ideas pointing at already.
 
 You can substitute a bright idea for an idea token. You could even use 2 bright ideas and no idea token. These will go back to the supply at end of turn, where normal ideas stay on the meeting table. After performing your actions, you advance your inkpot
 
-## INKPOT
+### INKPOT
 Your inkpot will move clockwise along it’s track equal to the value shown on the row of the meeting board where you took your action, performing the inkpot effect where it ends movement. Bottom left of playerboard reminds you that for each bright idea token spent, you can modify this moevent +/- 1, down to a minimum of one.
 - Three spaces aligned with insight will generate the insight shown, and then resolve the effects of every notebook tile in that row in any order. If the token has been removed from the end of the row, you will get the effect shown there too.
 - Space on the left activates reputation track (not gain rep)
 - Top space of the 4 stack has you pick a column with no idea above it, and then resolve every notebook tile in that column. If the token has been removed from below the column, get the effect show there as well.
 - When you move your inkpot over the printed gain idea symbol, remove the leftmost idea token and add it to your reserve
 
-# Meeting Table Actions
+## Meeting Table Actions
 ![insight moves and gain 3](images/unconcious_mind/um_actions_1.png)
 - Left lets you perform 2 elevations and 1 transfer (in any order)
 - Right lets you generate one minor insight of each quality
@@ -66,16 +66,3 @@ Pay coffee to gain notebook tiles
 - Left: Grab the tile from above the column
 - Mid: 
 
-
-
-# Heading
-- Bullet point
-- Bullet point
-- Bullet point
-
-## Smaller Heading
-1. numbered list iten
-2. numbered list item
-3. numbered list item
-
-### Smallest Heading
