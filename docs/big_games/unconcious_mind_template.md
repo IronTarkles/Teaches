@@ -9,8 +9,8 @@ The game is played over a number of rounds until Freud's reputation marker moves
 - Recall Ideas
 - Treat Clients
 
-## General Concepts
-### INSIGHT
+# General Concepts
+## Insight
 Each player has a large wheel to track their insight. The wheel has different wedges for the differet insight qualities, as well as different rings for the insight levels.
 
 There is a center reserve, where generated insight is pulled from. While in the reserve, insight has no quality or level. You will start the game with only white insight, but can add ones of your player color throught the game.
@@ -23,7 +23,7 @@ To pay insight, move it from the idicated area to your reserve. You can always u
 
 There are generic colorless insight shapes that refer to any insight of the depicted level. There is a spot on your playerboard where you can trade a minor, median, and major insight for a heart shaped box.
 
-### REPUTATION
+## Reputation
 On the city board is a reputation track that does two different things. Any time a player one goes up, so does Freud’s. Him reaching the pocketwatch triggers the end of the game. Finish out round + one more. Gaining reputation advances the clock of the game, no matter who does it.
 
 When you gen a reputation (looks like a medal), first move Freud’s marker and then yours. If any marker crosses a line with the little face on the track, this make’s Freud’s meeple move locations, and this can happen multiple times in a turn.
