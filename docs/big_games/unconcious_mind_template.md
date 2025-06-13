@@ -38,19 +38,19 @@ This icon triggers the reputation track. When this happens you score points/coff
 !!! note
     Just remember, gaining reputation and triggering the reputation track are different things.
 
-### RESOURCES
+## RESOURCES
  Two major resources on playerboard. Heart shaped boxes are mainly used to cure clients. Conversions in middle of board. Coffee is used for a lot, there are conversions in the bottom left of the playerboard. When you would downgrade and insight, you can pay a coffee to ignore it. You can pay 2 coffee to level up an insight or change it’s color. Coffee can also be used to gain a bright idea token, which we’ll talk about more.
 
- # Major Actions
- On your turn, you can do one of three options. The first is to state ideas. This is how you take the main actions in the game
+# Major Actions
+On your turn, you can do one of three options. The first is to state ideas. This is how you take the main actions in the game
 
- ## State Ideas
- Ideas are the little speech bubbles in the bottom left of your playerboard. To perform this action you will grab 1 or 2 ideas and place them onto an empty idea space on the meeting table, pointing the tail at the action you want to perform. Placing one idea lets you do the action once, 2 ideas lets you do it twice. You can’t point the tails at an action that you have other ideas pointing at already.
+## State Ideas
+Ideas are the little speech bubbles in the bottom left of your playerboard. To perform this action you will grab 1 or 2 ideas and place them onto an empty idea space on the meeting table, pointing the tail at the action you want to perform. Placing one idea lets you do the action once, 2 ideas lets you do it twice. You can’t point the tails at an action that you have other ideas pointing at already.
 
- You can substitute a bright idea for an idea token. You could even use 2 bright ideas and no idea token. These will go back to the supply at end of turn, where normal ideas stay on the meeting table. After performing your actions, you advance your inkpot
+You can substitute a bright idea for an idea token. You could even use 2 bright ideas and no idea token. These will go back to the supply at end of turn, where normal ideas stay on the meeting table. After performing your actions, you advance your inkpot
 
- ### INKPOT
- Your inkpot will move clockwise along it’s track equal to the value shown on the row of the meeting board where you took your action, performing the inkpot effect where it ends movement. Bottom left of playerboard reminds you that for each bright idea token spent, you can modify this moevent +/- 1, down to a minimum of one.
+## INKPOT
+Your inkpot will move clockwise along it’s track equal to the value shown on the row of the meeting board where you took your action, performing the inkpot effect where it ends movement. Bottom left of playerboard reminds you that for each bright idea token spent, you can modify this moevent +/- 1, down to a minimum of one.
 - Three spaces aligned with insight will generate the insight shown, and then resolve the effects of every notebook tile in that row in any order. If the token has been removed from the end of the row, you will get the effect shown there too.
 - Space on the left activates reputation track (not gain rep)
 - Top space of the 4 stack has you pick a column with no idea above it, and then resolve every notebook tile in that column. If the token has been removed from below the column, get the effect show there as well.
