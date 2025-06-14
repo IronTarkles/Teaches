@@ -124,7 +124,7 @@ Instead of placing ideas and taking actions, you can recall your ideas. You must
 
 ## Treat Clients
 
-! [office and clients](images/unconcious_mind/)
+! [office and clients](images/unconcious_mind/um_clients.png)
 
 Instead of taking an action or recalling, you can treat clients. This is your office where clients and dreams will go. Dreams up top, clients on bottom. When you treat a client, you may treat one or both in any order one time each. To treat a client:
 - Look at the effect of the topmost dream. You must pay the depicted insight.
