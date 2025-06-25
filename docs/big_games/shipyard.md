@@ -1,6 +1,6 @@
 In 1870 people figured out sail boats suck ass, and the steam engine is the new hotness. We're going to be building new ships and expirimenting design competing for the blue riband, which is awarded to the fastest shit to cross the Atlantic.
 
-# Gameplay
+## Gameplay Overview
 
 We take turns clockwise to take actions with the goal of contructing ships. Ships are built on your playerboard, and when completed, will go on a shakedown cruise on the canal where they will have to meet certain requirements. If you don't meet those requirements your ship will fall apart (that's bad). Points can be scored during the game during these cruises, where you get more points the more stuff is on your ship. Government contracts will provide points at the end of the game. 
 
@@ -8,7 +8,7 @@ A turn will have you choose an available action from the action track. On your n
 
 As cubes are removed from the track, you will have to discard some of your held end game objectives
 
-# Turn Structure
+## Turn Structure
 
 A turn has 5 steps:
 1. Advance previous turn's tile (skipped during first turn)
@@ -28,9 +28,9 @@ A turn has 5 steps:
 5. Your ships completed this turn go on a shakedown cruise
     - A ship is complete when it has a bow on the left, at least 1 middle part, and a stern on the right, with no empty spaces. Ships completed after step 4 of your turn must leave your shipyard to be tested in the canal system. 
 
-### Actions
+## Actions
 
-1. Build Ships 
+### Build Ships 
 
 ![build icon](images/shipyard/build_ships.png)
 
@@ -39,8 +39,7 @@ A turn has 5 steps:
 - A coompleted ship must have a bow, a number of middle pieces, and a stern, with no empty spaces.
 - A ship can be at most 7 pieces in total
 
-## Placement rules
-
+ Placement rules:
 - Ships tiles are placed in the empty dotted spaces at the bottom of your ship board
 - Once placed, they cannot be moved or re-arranged
 - You can't fill up all your spaces unless the result is at least one completed ship
@@ -50,7 +49,7 @@ A turn has 5 steps:
 
 - After placing all tiles, slide tiles on the board downward so the only empty tiles are at the tops of the columns. Then refill from the tiles with No 1 on their backs.
 
-2. Rent a Canal
+### Rent a Canal
 
 ![canal icon](images/shipyard/rent_a_canal.png)
 
@@ -62,7 +61,7 @@ A turn has 5 steps:
 - You can't re-arrange canal tiles or move or reorient your ship once placed
 - You will want to match up canals with ships that you are building
 
-3. Purchase Commodities
+### Purchase Commodities
 
 ![purchase icon](images/shipyard/purchase_commodity.png)
 
@@ -74,7 +73,7 @@ The symbols of the next actions coorespond to the part of the main board wheel w
 
 ![main board](images/shipyard/main_board_wheel.png)
 
-4. Manufacture Equipment
+### Manufacture Equipment
 
 ![manufacture icon](images/shipyard/manufacture_equipment.png)
 
@@ -84,7 +83,7 @@ The symbols of the next actions coorespond to the part of the main board wheel w
 - equipment will be attached to ships for the rest of the game
 - equipment needs mounting points
 
-5. Recruit Crew
+### Recruit Crew
 
 ![recruit icon](images/shipyard/recruit_crew.png)
 
@@ -93,7 +92,7 @@ The symbols of the next actions coorespond to the part of the main board wheel w
 - every crew member besdies the captain needs a cabin, and most will score you points
 - additional captains become offices and need cabins as well
 
-6. Hire Employee
+### Hire Employee
 
 ![hire icon](images/shipyard/hire_employees.png)
 
@@ -108,7 +107,7 @@ The symbols of the next actions coorespond to the part of the main board wheel w
     - Yellow tiles let you move the cube up to an additional amount for free
     - Blue tiles with the speed icon give you extra speed
 
-7. Exchange Commodities
+### Exchange Commodities
 
 ![exchange icon](images/shipyard/exchange_commodoties.png)
 
@@ -119,13 +118,13 @@ The symbols of the next actions coorespond to the part of the main board wheel w
 - You cannot chose to exchange 2 commodities for the same equipment or crew
     - if you had 2 coal, you couldn't buy 2 smokestacks with them, but you could get 1 stoker and 1 smokestack
 
-8. Receive Subsidy (only in 4 player game)
+### Receive Subsidy (only in 4 player game)
 
 ![subsiy icon](images/shipyard/receive_subsidy.png)
 
 - Get 2 money from the bank
 
-### Shakedown Cruise
+## Shakedown Cruise
 
 Completing a ship during your turn means it will have to be sent on a shakedown cruise at the end of your turn. Multiple ships completed mean multiple cruises, you decide the order in which they happen.
 - Ship must be one bow, one stern, at least one middle piece, no empty spaces
@@ -170,15 +169,15 @@ Completing a ship during your turn means it will have to be sent on a shakedown 
 
 After scoring your ship, move it to the empty space at the top of your shipyard with all equipment and crew on it. End game scoring may care about features.
 
-### End of the Game
+## End of the Game
 
 Each time the turn marker completes a rotation, a cube is removed from the queue. When we go to remove a cube and can't, end game is triggered. We finish out the round. The game can also end if the last bow stern or middle ship tile is taken from the stack and put into the game. Game ends immediately in that case. 
 
-## Final Action
+### Final Action
 
 After that, we each get one final action, ignoring cube placement, and regardless of your previous action. It is possible for multiple players to all take the same final ation. If your final action completes a ship, take it on a shakedown cruise like normal.
 
-## Final Ship Build
+### Final Ship Build
 
 After each player has had their final action, everyone gets the chance to build a ship. If you have a ship that only requires 1 tile to be completed, you may buy it from the market in the usual way. If a ship is completed this way, take it on a shakedown cruise like noromal
 
