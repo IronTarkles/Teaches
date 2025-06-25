@@ -27,6 +27,7 @@ The start player will play either a single card or set of matching rank cards fr
 When there are no cards on the field, any amount of cards can be lead
 
 When following, you must either:
+
 - Play the same amount of cards, but a higher rank
     - A pair of 3s could beat a pair of 2s
 - Play a higher number of cards regardless of rank (you can only play one more card than what was played previoulsy.)
@@ -35,6 +36,7 @@ When following, you must either:
 ### Using segments
 
 All the numbers in the game are digital numbers that can be changed to different value through the use of blacking out parts of the number, or lighting up parts of the number with segments.
+
 - Only one color of segment may be used on a card, but you can use any amount of segments. So you could not use the blue and black side of segments on the same number
 - You can use segments on as many cards that you're playing as you like, as long as the end result is cards of all the same value
 - Each card shows on the side what it can be changed into and how many segements of what type it will take
@@ -42,6 +44,7 @@ All the numbers in the game are digital numbers that can be changed to different
 ### Passing
 
 If you can't or don't want to play, you can pass.
+
 - Grab 2 segments from the supply
 - You have a max of 7 segments
 - It is a soft pass, you can always jump back in

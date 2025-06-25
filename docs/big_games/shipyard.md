@@ -11,8 +11,11 @@ As cubes are removed from the track, you will have to discard some of your held 
 ## Turn Structure
 
 A turn has 5 steps:
+
 1. Advance previous turn's tile (skipped during first turn)
+
     - Your tile is moved to the rightmost action space, pushing the others back and moving the wheel forward. If your tile is the rightmost already, you still move the wheel
+    
 2. Choose a new action, placing your cube on it
     - Action tiles can only hold 1 player cube
     - You can't choose the action you just moved to the front
