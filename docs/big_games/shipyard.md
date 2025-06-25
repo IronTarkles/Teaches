@@ -15,7 +15,7 @@ A turn has 5 steps:
 1. Advance previous turn's tile (skipped during first turn)
 
     - Your tile is moved to the rightmost action space, pushing the others back and moving the wheel forward. If your tile is the rightmost already, you still move the wheel
-    
+
 2. Choose a new action, placing your cube on it
     - Action tiles can only hold 1 player cube
     - You can't choose the action you just moved to the front
@@ -43,6 +43,7 @@ A turn has 5 steps:
 - A ship can be at most 7 pieces in total
 
  Placement rules:
+
 - Ships tiles are placed in the empty dotted spaces at the bottom of your ship board
 - Once placed, they cannot be moved or re-arranged
 - You can't fill up all your spaces unless the result is at least one completed ship
@@ -130,6 +131,7 @@ The symbols of the next actions coorespond to the part of the main board wheel w
 ## Shakedown Cruise
 
 Completing a ship during your turn means it will have to be sent on a shakedown cruise at the end of your turn. Multiple ships completed mean multiple cruises, you decide the order in which they happen.
+
 - Ship must be one bow, one stern, at least one middle piece, no empty spaces
 - Equipment and crew are not added to your ship until it is complete. These will stay with the ship they're placed on and not be used on a differnt ship later
 - You can only use equipment and crew in your player area, and this is a free action
