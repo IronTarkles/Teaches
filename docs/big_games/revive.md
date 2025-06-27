@@ -1,6 +1,4 @@
-#############  
-Revive Teach#
-#############
+## Overview
 - Intro / Theme
     -Who are we?
     -What are we doing?

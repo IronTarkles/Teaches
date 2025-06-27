@@ -92,55 +92,64 @@
 - Effects of fire blessing are summarized at the top of your player aide
 - Gain a god card or an offering
 - Gain a knowledge or a food
-Phase 2
-Each player in turn order will use one ability from one of their placed study tiles, and one ability from a placed farming tile in either order
-You’ll notice that I said “one ability” and not “one tile
-If you have tiles that match, that means you would activate all tiles that show that same ability. This only applies to study and farming tiles separately
-Stone trail tiles work differently if you have more than one of them
-Normally you would move across a trail that is up to the die value depicted
-Multiple tiles make that value additive, 3 tiles make it where you could move across any trail of that type
-Tiles depicting grabbing a study/farming tile work the same way.
-Phase 3
-We will activate the areas of the cuzco board, following the arrows along the river
-University
-Each player gains the points indicated by their knowledge marker placement
-Tiles get stacked up with the furthest progressing on top, and this determines the new turn order
-New turn order is effective IMMEDIATELY
-Temple
-Gain a number of points for each priest on a step, more points the later the round
-Player w/ most priests gains a medal from the top of the temple
-Tie is broken by highest placed priest
-Market
-In turn order, each player may buy one good from the row corresponding to the current round
-Spend the indicated food, gain the points, flip over and put on bottom of mask
-Buying is optional
-Palace
-Each player must complete one of the 3 mission tiles from their board
-Just a check for total, you do not spend
-You gain 6 points for completing a mission
-If unable to complete, choose a mission tile to remove from the game, and you do not gain points
-Choose one of the mission tiles from the palace, placing it in your empty mission slot
-Tiles are not replenished until the end of round
-End of round cleanup
-Any remaining study and farming tiles are removed, then all are refilled
-Same for missions
-Good get removed from round row
-All players take dice back
-End of game
-Opportunity to complete all 3 remaining missions, gaining 6 points each
-Final scoring is summarize on back of the player aid
-Village w/ tiles on top
-2 points per medal
-6 points for all feather
-9 points for all circlets flipped
-9 points for completing all 9 missions
-10 points for all kipu tiles removed from board
-12 pointrs for all farmer/study tiles placed
-6 points if you bought 6 goods
-Why didn’t we talk about god cards
-We start w/ 2, no hand size
-12 cards for each god, 4 copies of 3 different cards 
-Top corner of card shows the phase in which it can be played
-Playing a card costs 1 offering
-Perform ability on card and discard
-You can also spend a medal to perform the action on a face up god card in the display. Card is then discarded
+
+## Phase 2
+
+- Each player in turn order will use one ability from one of their placed study tiles, and one ability from a placed farming tile in either order
+- You’ll notice that I said “one ability” and not “one tile
+- If you have tiles that match, that means you would activate all tiles that show that same ability. This only applies to study and farming tiles separately
+- Stone trail tiles work differently if you have more than one of them
+    - Normally you would move across a trail that is up to the die value depicted
+    - Multiple tiles make that value additive, 3 tiles make it where you could move across any trail of that type
+- Tiles depicting grabbing a study/farming tile work the same way.
+
+## Phase 3
+
+- We will activate the areas of the cuzco board, following the arrows along the river
+- University
+    - Each player gains the points indicated by their knowledge marker placement
+    - Tiles get stacked up with the furthest progressing on top, and this determines the new turn order
+    - New turn order is effective IMMEDIATELY
+- Temple
+    - Gain a number of points for each priest on a step, more points the later the round
+    - Player w/ most priests gains a medal from the top of the temple
+    - Tie is broken by highest placed priest
+- Market
+    - In turn order, each player may buy one good from the row corresponding to the current round
+    - Spend the indicated food, gain the points, flip over and put on bottom of mask
+    - Buying is optional
+- Palace
+    - Each player must complete one of the 3 mission tiles from their board
+    - Just a check for total, you do not spend
+    - You gain 6 points for completing a mission
+    - If unable to complete, choose a mission tile to remove from the game, and you do not gain points
+    - Choose one of the mission tiles from the palace, placing it in your empty mission slot
+    - Tiles are not replenished until the end of round
+
+## End of round cleanup
+
+- Any remaining study and farming tiles are removed, then all are refilled
+- Same for missions
+- Good get removed from round row
+- All players take dice back
+
+## God cards
+- We start w/ 2, no hand size
+- 12 cards for each god, 4 copies of 3 different cards 
+- Top corner of card shows the phase in which it can be played
+- Playing a card costs 1 offering
+- Perform ability on card and discard
+- You can also spend a medal to perform the action on a face up god card in the display. Card is then discarded
+
+## End of game
+
+- Opportunity to complete all 3 remaining missions, gaining 6 points each
+- Final scoring is summarize on back of the player aid
+    - Village w/ tiles on top
+    - 2 points per medal
+    - 6 points for all feather
+    - 9 points for all circlets flipped
+    - 9 points for completing all 9 missions
+    - 10 points for all kipu tiles removed from board
+    - 12 pointrs for all farmer/study tiles placed
+    - 6 points if you bought 6 goods
