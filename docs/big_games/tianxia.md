@@ -43,16 +43,16 @@ The circular space in a region is where you'll be placing your disk. If there ar
 - Gain any extra benefit shown in a bubble (only in some regions)
 - Take one of each type of possible action in the region. Taking an action in the region is optional, but you must resolve at least one
 
-1. Install a governor
+##### Install a governor
 
 - Select a abuilding in the chosen region that has an available meeple space. Pay the depicted wood cost shown at the top of the building, and any additional wood shown in the space where you'll be putting your meeple. If there is a bonus tile, grab it.
 - Buildings are either red for a passive bonus, or grey for an income bonus. If you put a governor at an income building, you will also immediately receive the resources shown.
 
-2. Exchange
+#####  Exchange
 
 - Some regions have goods conversions listed next to the name of the region. You can perform the listed conversion up to 4 times.
 
-3. Shipping
+##### Shipping
 
 - Allows you to trade with a ship in the port of that region
 - Only available in regions that contain ports
@@ -69,14 +69,14 @@ This type of turn takes place in the wall section at the top of the board where 
 - Place your action disk on one of the spaces, paying one coin for additional disks present
 - Go up one space on any palace track
 
-1. Fortify
+##### Fortify
 
 - You may build as many walls and towers as you want (and are able to pay for)
 - Spend a number of stone depicted next to each wall and or tower on your player board ( you must build both in ascending order)
 - Walls get placed on the leftmost empty space of any wall section on the main board, towers have a dedicated space.  Move the defense marker in that wall section up twice for a tower and once for a wall.
 - In a single action you can distribute built structures across multiple wall sections
 
-2. Train soldiers
+##### Train soldiers
 
 - You may train as many soldiers as you want (and are able to pay for)
 - Pay 2 rice per soldier and then place a meeple from your supply  in the leftmost empty space in any wall section.
@@ -115,12 +115,12 @@ On any of these turnes, you are also able to take any free actions:
 
 After all players have passed we check the position of all nomad meeples. If a nomad has reached the final space, a battle is triggered in that region following these steps:
 
-1. Award prestige
+####  Award prestige
 
 - Sum up the strength of each player that contributed to the defense of that wall. Towers count as 2, walls and soldiers count as 1 each.
 - Player with the most strength gets 7 points, second most gets 4, and third most gains 2. Ties are broken by leftmost soldier, then leftmost wall
 
-2. Battle
+#### Battle
 
 - For every tower in a section, the nomad strength is reduced by 2, for every wall by 1. If nomad strength reaches 0, the battle is won.
 - Starting with the leftmost soldier, return soldiers to the respective players supply, one by one. For each removed, decrease nomad strength by one. If nomad strength reaches 0, the battle is won.
