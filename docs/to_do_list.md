@@ -2,7 +2,6 @@
 ## Big games
 - Abomination 
 - Amun Re 
-- Arborea 
 - Autobahn 
 - Bus 
 - Carnegie 
@@ -19,14 +18,12 @@
 - Guards of Atlantis 2 
 - Hitodama  
 - Keep the Heroes Out 
-- La Granja 
 - Marrakesh 
 - Merv 
 - Millenium Blades 
 - Obsession (with all expansions) 
 - Praga Caput Regni 
 - SETI 
-- Shipyard 
 - Spirit Island 
 - T'zolkin 
 - Tiletum 
