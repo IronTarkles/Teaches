@@ -1,0 +1,1813 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../shipyard/">
+      
+      
+        <link rel="next" href="../tiletum/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.20">
+    
+    
+      
+        <title>Tianxia - Board Game Teaches</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.e53b48f4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#overview" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Board Game Teaches" class="md-header__button md-logo" aria-label="Board Game Teaches" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Board Game Teaches
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Tianxia
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../.." class="md-tabs__link">
+          
+  
+  
+    
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../black_forest/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Big Games
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../card_games/bid_coin/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Card Games
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Board Game Teaches" class="md-nav__button md-logo" aria-label="Board Game Teaches" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Board Game Teaches
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../.." class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../to_do_list/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    To-do list
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Big Games
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Big Games
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../black_forest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Black Forest
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../calimala/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Calimala
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cuzco/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cuzco
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../gaia_project/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Gaia Project
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../great_western_trail/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Great Western Trail
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../inferno/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Inferno
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lightning_train/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Lightning Train
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rajas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Rajas of the Ganges
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../revive/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Revive
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../shipyard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Shipyard
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Tianxia
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tianxia
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#game-phases" class="md-nav__link">
+    <span class="md-ellipsis">
+      Game Phases
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Game Phases">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Setup
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#action-phase" class="md-nav__link">
+    <span class="md-ellipsis">
+      Action Phase
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Action Phase">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#region-turn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Region turn
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Region turn">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#install-a-governor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Install a governor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exchange" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exchange
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shipping" class="md-nav__link">
+    <span class="md-ellipsis">
+      Shipping
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#military-turn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Military turn
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Military turn">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fortify" class="md-nav__link">
+    <span class="md-ellipsis">
+      Fortify
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#train-soldiers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Train soldiers
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#barge-turn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Barge Turn
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pass-turn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pass turn
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#free-actions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Free actions
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#attack-phase" class="md-nav__link">
+    <span class="md-ellipsis">
+      Attack phase
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Attack phase">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#award-prestige" class="md-nav__link">
+    <span class="md-ellipsis">
+      Award prestige
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#battle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Battle
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cleanup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cleanup
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#income" class="md-nav__link">
+    <span class="md-ellipsis">
+      Income
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#end-game-scoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      End game scoring
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tiletum/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tiletum
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../trickerion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Trickerion
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../unconcious_mind_template/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Unconcious Mind
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Card Games
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Card Games
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/bid_coin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bid Coin
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/depot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Depot
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/dokitto_ice/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dokitto! Ice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/livemix/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Live Mix
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/savage_bowl/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Savage Bowl
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/segnum/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Segnum
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/sumida_river/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sumida River
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/tabletop_climber/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tabletop Climber
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/tornei/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tornei
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../card_games/twinkle_starship/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Twinkle Starship
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#game-phases" class="md-nav__link">
+    <span class="md-ellipsis">
+      Game Phases
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Game Phases">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Setup
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#action-phase" class="md-nav__link">
+    <span class="md-ellipsis">
+      Action Phase
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Action Phase">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#region-turn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Region turn
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Region turn">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#install-a-governor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Install a governor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exchange" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exchange
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shipping" class="md-nav__link">
+    <span class="md-ellipsis">
+      Shipping
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#military-turn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Military turn
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Military turn">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fortify" class="md-nav__link">
+    <span class="md-ellipsis">
+      Fortify
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#train-soldiers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Train soldiers
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#barge-turn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Barge Turn
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pass-turn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pass turn
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#free-actions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Free actions
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#attack-phase" class="md-nav__link">
+    <span class="md-ellipsis">
+      Attack phase
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Attack phase">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#award-prestige" class="md-nav__link">
+    <span class="md-ellipsis">
+      Award prestige
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#battle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Battle
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cleanup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cleanup
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#income" class="md-nav__link">
+    <span class="md-ellipsis">
+      Income
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#end-game-scoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      End game scoring
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Tianxia</h1>
+
+<h2 id="overview">Overview</h2>
+<p>The warring states period in Chinese history, where 7 warring kingodms were locked in conflict with each other, and also nomadic tribes that attacked from the north. The game is played over 4 rounds, in which we'll be installing governor to regions, bolstering the power of ruling houses, and selling goods to gain wealth. While we're doing all this we must keep a constant watchful eye on the fortifications protecting us from the nomads to the north. Each round the nomads will advance towards the borders of the 7 kingdoms in greater numbers, and when they reach a border a battle that affects all players is triggered.</p>
+<p>The maps has several regions that  are used during taking actions. At the top are the nomads and military fortifications, below the map with the regions where we can install governor, trade, and improve standing, below that the barges where we will gain resources, and at the bottom the palace where there are different tracks for several influential powers.</p>
+<h2 id="game-phases">Game Phases</h2>
+<p>The game is played over 4 rounds, each broken into 5 phases:</p>
+<ol>
+<li>Setup</li>
+<li>Income</li>
+<li>Action</li>
+<li>Attack</li>
+<li>Cleanup</li>
+</ol>
+<h3 id="setup">Setup</h3>
+<p>Bonus tiles are added to the round track. Bonus tiles are also littered around the board. There are 2 different kinds. Figurines and one time use. One time use tiles go on your board and you can use them as a free action at any time on one of your turns. Figurines are added to your player board's left side. There are 6 different ones, you can never have duplicates.  They allow you to spend coins to go up tracks when you pass, and also get you end game points</p>
+<p>Nomad attack card is revealed and the strength of the armies is adjusted for the round. Each of the 4 nomads has a strength tracker that looks like a sword next to its regeion. If the meeple reaches the attack symbol at the bottom of the track, a battle will occur at the end of the round. This means we will be able to see where there will and won't be battles at the top of the round.</p>
+<p>We will skip over income phase for now, and talk about the action phase</p>
+<h3 id="action-phase">Action Phase</h3>
+<p>Starting with the first player and continuing in turn order, each player takes a turn until everyone has passed. You have 3 action markers to use, but not all types of turns use an action marker. On your turn you resolve one of these types of turns which are all covered on the player aide:</p>
+<ol>
+<li>Region</li>
+<li>Military</li>
+<li>Barge</li>
+<li>Pass</li>
+</ol>
+<h4 id="region-turn">Region turn</h4>
+<p>This type of turn takes place on the map section of the main board.</p>
+<p>The circular space in a region is where you'll be placing your disk. If there are other disks there, you must pay 1 money to the supply per disk, and then your disk goes on top. Then in any order:</p>
+<p><img alt="region action space" src="../images/tianxia/region_turn.png" /></p>
+<ul>
+<li>Advance one step on the palace track matching the banner color in the region and possibly gain benefits</li>
+<li>Gain any extra benefit shown in a bubble (only in some regions)</li>
+<li>Take one of each type of possible action in the region. Taking an action in the region is optional, but you must resolve at least one</li>
+</ul>
+<h5 id="install-a-governor">Install a governor</h5>
+<ul>
+<li>Select a abuilding in the chosen region that has an available meeple space. Pay the depicted wood cost shown at the top of the building, and any additional wood shown in the space where you'll be putting your meeple. If there is a bonus tile, grab it.</li>
+<li>Buildings are either red for a passive bonus, or grey for an income bonus. If you put a governor at an income building, you will also immediately receive the resources shown.</li>
+</ul>
+<h5 id="exchange">Exchange</h5>
+<ul>
+<li>Some regions have goods conversions listed next to the name of the region. You can perform the listed conversion up to 4 times.</li>
+</ul>
+<h5 id="shipping">Shipping</h5>
+<ul>
+<li>Allows you to trade with a ship in the port of that region</li>
+<li>Only available in regions that contain ports</li>
+<li>Place a shipping marker (rope pretzel) in the port area</li>
+<li>You may place as many delivery markers (player color crate) as there are availalbe spaces on the ship (as long as you can spend the goods)</li>
+<li>To make a delivery you must spend the good indicated on the port demand tile (shown as a neutral crate on the ship) and possibly additional goods</li>
+<li>You place your player color delivery token to cover a bonus space at the bottom of the ship, also receiving that benefit.</li>
+<li>The ship next the wave symbol is not in any port. You can't normally deliver here unless a game effect allows you to.</li>
+</ul>
+<h4 id="military-turn">Military turn</h4>
+<p>This type of turn takes place in the wall section at the top of the board where you will take your choice of 1 of 2 actions</p>
+<ul>
+<li>Place your action disk on one of the spaces, paying one coin for additional disks present</li>
+<li>Go up one space on any palace track</li>
+</ul>
+<h5 id="fortify">Fortify</h5>
+<ul>
+<li>You may build as many walls and towers as you want (and are able to pay for)</li>
+<li>Spend a number of stone depicted next to each wall and or tower on your player board ( you must build both in ascending order)</li>
+<li>Walls get placed on the leftmost empty space of any wall section on the main board, towers have a dedicated space.  Move the defense marker in that wall section up twice for a tower and once for a wall.</li>
+<li>In a single action you can distribute built structures across multiple wall sections</li>
+</ul>
+<h5 id="train-soldiers">Train soldiers</h5>
+<ul>
+<li>You may train as many soldiers as you want (and are able to pay for)</li>
+<li>Pay 2 rice per soldier and then place a meeple from your supply  in the leftmost empty space in any wall section.</li>
+<li>In a single action you can distribute soldiers across multiple wall sections.</li>
+<li>Move the defense marker up 1 per soldier</li>
+</ul>
+<h4 id="barge-turn">Barge Turn</h4>
+<p>This type of turn takes place in the river section of the board, and does not require using an action disk</p>
+<ul>
+<li>Select a barge and pay a coin. Additionally, pay 1 coin for each of your workers already present on the barge.</li>
+<li>Place your worker on the leftmost position of the barge and gain 1 of the resource depicted.</li>
+<li>Any workers on the barge are pushed to the right. Only 3 workers can be on a barge. A knocked off worker is moved to that player's board into one of the merchant spots.</li>
+<li>During the income phase you gain 1 of the indicated resource per worker on a barge.</li>
+<li>If you are out of your own player color workers, you may instead place a gray neutral worker. Cost is paid normally, and the resource is gained immediately, but neutral workers will not generate any income.</li>
+</ul>
+<h4 id="pass-turn">Pass turn</h4>
+<p>When you pass, resolve the following steps in order:</p>
+<ul>
+<li>Place your turn ovrder marker on the topmost empty space on the turn order tracker for the next round</li>
+<li>Take an available bonus tile below the round track</li>
+<li>Spend coins based on the amount of figurines you have to go up on palace tracks (can be different)</li>
+</ul>
+<h4 id="free-actions">Free actions</h4>
+<p>On any of these turnes, you are also able to take any free actions:</p>
+<ul>
+<li>Discard an action marker to gain 2 coins (it will come back next round)</li>
+<li>Us a bonus tile (keep it face down near your board, may matter for end game scoring)</li>
+<li>Discard an objective card to gain all the benefits shown on the top part of the card</li>
+<li>If your merchant action spaces are full, you may return meeples to your supply to carry out the action shown</li>
+<li>You may just return a meeple from a merchant space back to your board </li>
+</ul>
+<h3 id="attack-phase">Attack phase</h3>
+<p>After all players have passed we check the position of all nomad meeples. If a nomad has reached the final space, a battle is triggered in that region following these steps:</p>
+<h4 id="award-prestige">Award prestige</h4>
+<ul>
+<li>Sum up the strength of each player that contributed to the defense of that wall. Towers count as 2, walls and soldiers count as 1 each.</li>
+<li>Player with the most strength gets 7 points, second most gets 4, and third most gains 2. Ties are broken by leftmost soldier, then leftmost wall</li>
+</ul>
+<h4 id="battle">Battle</h4>
+<ul>
+<li>For every tower in a section, the nomad strength is reduced by 2, for every wall by 1. If nomad strength reaches 0, the battle is won.</li>
+<li>Starting with the leftmost soldier, return soldiers to the respective players supply, one by one. For each removed, decrease nomad strength by one. If nomad strength reaches 0, the battle is won.</li>
+<li>Each soldier returned to a player gets them 1 point.</li>
+<li>If the nomad strength is still not 0, they raid the lands in their lane.<ul>
+<li>Move the nomad along the path to the first building tile</li>
+<li>Return governors from that building back to the players supplies</li>
+<li>Add an additional cost token to that building, and replenish the bonus tile space if empty</li>
+<li>Decrease the nomad strength by the number printed below the building. If the nomad strength reaches 0, the battle is over.</li>
+<li>If nomad strength still remains, move to the next building and the process is repeated</li>
+<li>If all buildings were raded and the nomad strength never hit 0, all players either lose 1 coin or 3 points PER NOMAD STRENGTH REMAINING</li>
+</ul>
+</li>
+<li>If the battle was won, the player that gained the most points during the first step of the attack gains 1 additional point for each governor (regardless of owner) remaining on the attacked path</li>
+<li>At the end of the battle, return the nomad to the start of its track and reset the strength accordingly. Reset defense accordingly.</li>
+</ul>
+<h3 id="cleanup">Cleanup</h3>
+<ul>
+<li>Bonus tiles remaining below round track are returned to box</li>
+<li>Each player takes back action markers</li>
+<li>All ship tiles with all delivery spaces occupied are discarded</li>
+<li>Ships are slid up, new ships are revealed in empty ports</li>
+<li>Turn order slides over</li>
+</ul>
+<h3 id="income">Income</h3>
+<p>I said we'd come back to this! In the income step you gain income from these sources:</p>
+<ul>
+<li>Income buildings on the main board and player board</li>
+<li>Workers on barges</li>
+</ul>
+<h2 id="end-game-scoring">End game scoring</h2>
+<p>Game ends after end of 4th round. Gain points for:</p>
+<ul>
+<li>Figurines</li>
+<li>Placement on palace tracks</li>
+<li>Up to 3 objective cards left in your hand (if multiple cards care about the same components for conditions, they match for all objectives. So friendly, not like great western trail)</li>
+<li>Add up all money, resources, and goods, divide by 5</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.sections", "navigation.indexes", "navigation.top", "search.highlight", "search.share", "content.code.copy", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.f55a23d4.min.js"></script>
+      
+    
+  </body>
+</html>
