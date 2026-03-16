@@ -153,12 +153,111 @@ EACH OF THESE OPTIONS REQUIRES YOU TO PAY GOODS FROM YOUR STOREHOUSE, SO IF YOU 
 - This is the noble you will visit, and this is where in influence track comes in
 - To meet with the noble, you must pay influence equal to the number of officials in his office that don't belong to you
 - There is a cost modifer to this action based on the position of the treasury cube as well. It can be cheaper or more expensive
-- You can then optionally take one of that noble's state actions.
+- You can then optionally take one of that noble's state actions first (still paying the resource)
 - You must then take the noble's main action (shown to the right of the state actions)
 
-The green main action is to build a building
+##### Green action: Build a store
 
-- The buildings will go in the downtown area and will have the door (the triangle cut out) pointing towards a color street.
-- The street your building is facing is the type of good that it will produce
+- The stores will go in the downtown area and will have the door (the triangle cut out) pointing towards a color street.
+- Grab a store from the line up on the side of the board next to the downtown area.
+- The street your store is facing is the type of good that it will produce
+- Gain the reward depicted on the land space
+- Take one rubble from the column or row where that building is built
+- Pay for the land:
+    - Pay the current treasury value
+    - Pay for each piece of rubble on in the row and column where the store was built
+    - Rubble in public building spots is NOT considered when paying
+    - Cost of rubble is shown below the city chart
+- Choose a wooden house:
+    - From your board, grab a house from one of the three house tracks.
+    - You must grab the lowest from one of the tracks
+    - There are passive powers that unlock once the house next to the icon has been removed
+    - The leftmost allows you to spend coins instead of influence at a 1:1 rate
+    - The middle allows you to get a discount of a good for a ship, or for ships to be totally free
+    - The right gives you a single additonal good of a type you produced, then gives you an additional good of EACH type when you produce
+    - These bonuses are upgrades to each other, they are not cumulative
+- Score points:
+    - Check to see the number of relevant public buildings to the store that you just built
+    - There can be a max of three that match it. Look to see if there is a color match in the row or on either side of the column
+    - You then score points equal to the number shown at the bottom of the row on the point tile times the number of relevant public buildings
+    - This means that a store with no relevant public buildings will score no points
+    - Buildings can score on later turns once relevant public buildings are built. This means that a store could end up scoring multiple times.
 
+Stores will not refill to the side of the board until the end of your turn.
 
+##### Blue action: Take a decree
+
+Decrees earn you points at the end of the game. When you take this action, grab a decree from the display and put it face up next to your board.
+
+When you make a set of ruble tokens, you remove a rubble set token from your board and put it on the blue noble's face area.
+
+Whenever you take the decree action, you can remove one of your rubble set tokens from this area to then immediately grab a second decree.
+
+Decrees don't refill until the end of your turn.
+
+##### Pink action: Open a public building
+
+Public buildings determine which stores will score, though they do not gain any points themselves. To open a public building:
+
+- Select a construction site at the west, north, or east side of downtown
+    - The north side buildings must have a color that matches the street on which it sits
+    - West and East side buildings have no such restrictions
+- Take both rubble cubes from the space, put them on your playerboard, and receive the reward from the space
+- Reveal an incomplete plan tile matching the color of the architect on the public building you want to build
+- Return a number of state officials depicted on the tile form nobles offices or the plaza to your player board.
+    - If you don't have enough, you can hire officials by paying the current treasury value per official needed
+- Flip the plan tile used and place it on the completed plan space on your board.
+- Score stores
+     - For east or west public buildings, the owner of each store in the same row earns points if the store faces a street of any of the colors on the public building
+     - For north public buildings the owner of each store facing its street earns points
+     - In both cases the number of points awarded in the number on the scoring tile at the bottom of the column
+- Immediately replenish the publich building spot on the main board with the next tile
+
+##### Following a noble card played to the board
+
+If you have a favor tile matching the color card played to the board, you can spend it to take an action of the matching noble immediately after the current player finishes their turn.
+
+- This is considered to still be on that player's turn, so things that don't refill until the end of their turn have not refilled yet (like decrees or constructable stores)
+- You can choose either state action or the main action associated with the noble
+- Whichever you choose, that is the only thing that you do (so you can't do 2 state actions like if you were trading with that noble).
+- If you choose the state action you must pay the appropriate resource like normal
+- To do either, you must first pay influence for each official in that office that is not yours
+
+##### Playing a treasury card to the royal court
+
+Playing a treasury card to the royal court lets you host an event.
+
+- Pay the current treasury price
+- Carry out what is shown on the main action of the card
+- Your turn is over, players may not follow a treasury card like they could with a noble card.
+
+### End of your turn
+
+Take a card to replenish your hand. Replenish anything missing from the board. Reveal a new political card.
+
+## End of a period
+
+If during a player's turn, they complete a 2nd rubble set or 3 political card piles are empty, the round ends after that player's turn and a mid game scoring occurs:
+
+- In turn order carry out these steps
+- Players recieve 3 points for each of their own completed rubble sets
+- Discard any ship cards in the remaining shipyard, replacing them with the brown ships with purple ships on top
+- PLayers may discard any number of cards. Earn the reward on the bottom of one of each noble card discarded this way (ignore any penalties)
+- Draw up to five cards from the purple deck. After everyone has drawn the purple deck goes back in the box
+- Remove all red cards from the board and replace them with the brown cards
+- Once this is all done, play resumes with the next player in turn order
+
+## End of the game
+
+If during a player's turn, they cmplete a 4th set of rubble cubles or 3 political card piles are empty, finish out the round. Then play one additional round.
+
+End game scoring:
+
+- Points equal to the hull size of all owned ships
+- 3 points for each completed rubble set
+- Points for having more stores of each type than opponents, according to the chart where the stores lie on the board
+- Ties are broken by adding up the tied spots and dividing by tied players (rounding down) then awarding each those points
+- Gain coins equal to what is below your influence marker, then earn 1 point for every 5 coins you have
+- Count up the officials on your completed plans. First place gets 15, 2nd gets 10, 3rd gets 5
+- 2 points for each royal favor left on your board
+- Points for all of your decree cards
