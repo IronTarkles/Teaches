@@ -7,7 +7,7 @@
 - Carnegie 
 - Concordia 
 - Daitoshi 
-- Darwin's Journey (w/ fireland expansion) 
+- Darwin's Journey (Expansions) 
 - Dune (with everything but bloodlines) 
 - Endeavor: Deep Sea 
 - Eternal Decks 
@@ -26,7 +26,6 @@
 - SETI 
 - Spirit Island 
 - T'zolkin 
-- Tiletum 
 - Underwater Cities
 - Unfathomable 
 - Viscounts of the West Kingdom 
