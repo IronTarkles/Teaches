@@ -6,6 +6,7 @@ nav:
     - index.md
     - to_do_list.md
   - Big Games:
+    - Agricola: big_games/agricola.md
     - Black Forest: big_games/black_forest.md
     - Calimala: big_games/calimala.md
     - Cuzco: big_games/cuzco.md
