@@ -3,7 +3,6 @@
 - Abomination 
 - Amun Re 
 - Autobahn 
-- Bus 
 - Carnegie 
 - Concordia 
 - Daitoshi 
@@ -19,7 +18,6 @@
 - Hitodama  
 - Keep the Heroes Out 
 - Marrakesh 
-- Merv 
 - Millenium Blades 
 - Obsession (with all expansions) 
 - Praga Caput Regni 
