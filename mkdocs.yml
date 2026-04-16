@@ -7,6 +7,7 @@ nav:
     - to_do_list.md
   - Big Games:
     - Agricola: big_games/agricola.md
+    - Ants: big_games/ants.md
     - Black Forest: big_games/black_forest.md
     - Bus: big_games/bus.md
     - Calimala: big_games/calimala.md
@@ -40,6 +41,8 @@ nav:
     - Tabletop Climber: card_games/tabletop_climber.md
     - Tornei: card_games/tornei.md
     - Twinkle Starship: card_games/twinkle_starship.md
+  - Con Games:
+    - Feed the Kraken: con_games/feed_the_kraken.md
 
 # theme
 theme:
