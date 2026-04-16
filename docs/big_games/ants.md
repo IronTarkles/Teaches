@@ -4,6 +4,6 @@ We're all rival ant colonies that locked in a struggle for dominance of the fiel
 
 ## Playerboard
 
-![Board](images/ants/ants_playerbaord.png)
+![Board](images/ants/ants_playerboard.png)
 
 As well as the ants tracked on the left
