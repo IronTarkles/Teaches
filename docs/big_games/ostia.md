@@ -8,6 +8,7 @@ The game doesn't have a set number of rounds, but there are several different wa
 
 - We'll all start in Osita and there are 4 main paths that lead to the different destination cities.
 - The reward track on the side of the board keeps track of the number of points you'll get at the end of the game for several conditions based on the postion of your reward marker.
+- A row of 4 order cards
 - Everyone has a couple player boards, a smaller one with boats and disks, and a larger one where we'll be mancala-ing the shit out of boats in the port to do a bunch of things.
 - The spaces on your larger board are associated with resources (circle icons) and actions (square icons)
 
@@ -84,17 +85,91 @@ How you add more ships to your fleet
 
 ![order](images/ostia/ost_order.png)
 
+How you fufill order cards to gain victory points and resources
+
+- Choose a card from the order row and pay the wheat shown in the top left. This gets you the dark reward in the top right
+- You can additionally pay the resouces shown below the wheat to also gain the light reward in the top right
+- Dark reward cost is mandatory, light is optional
+- Immediately receive the resources depicted in the center of the card
+- Afterwards, you can repeat these steps with another card from the order row
+- These cards are not immediately replenished, so the max you could fufill in one order action is 4
+- Refill the row when the action is done
+- The icons at the bottom of the card are use din end game scoring
+
 #### Build
 
 ![build](images/ostia/ost_build.png)
+
+How you build bases for yourself on the main board
+
+- Build construction disks starting from bottom, paying the stone
+- You can build multiple in one action if you can afford it
+- Immediately earn the reward shown to the right if there is one
+- Disks are placed on an initial trading port tiles or trading port tiles
+
+![trading_ports](images/ostia/ost_trading_ports.png)
+
+- You can only have one disk on each trading port
+- You can place your disk on a trading port that you have reached (including those that came before)
+- You can build where players already have disks. Each of those players gains 1 gold from the supply
+- Tiles can reward instant bonuses, trade actions or end game points
+- Each time you place a disk, grab a building token from that trading port and place it on any empty building spot on your port board. These all award bonuses:
+    - Starting with top right and going clockwise: no effect, placed during setup
+    - Gain an addtional wood or permit when producting those resources
+    - Pay 1 less total wood for a shipbuilding action (not 1 per ship)
+    - Same for 1 less wheat for order cards
+    - 1 more wheat or stone when producing those resources
+    - 1 less total stone for a build action
+    - Any time during your action pahase pay 2 gold to get 1 resource of your choice
+    - Gain 1 reward
 
 #### Trade
 
 ![trade](images/ostia/ost_trade.png)
 
+This is how you use the trading port tiles with the trade action where you have already put a disk
+
+- If you have a construction disk on any port tiles with a trade action, you can activate each of them as many times as you like (unless specified on the tile)
+- Each trade requires gold
+- You can also buy an honor card for 4 gold if you've met the requirements (other cards that aren't the orders)
+- You can take multiple honor cards in one action, and you can take them even if you have not activated any trade action effects
+
 #### Administration
 
 ![admin](images/ostia/ost_administration.png)
+
+This is essentially a wild action space with upside
+
+- This space has no resource production
+- Instead, take one of the 4 depicted actions
+- After that, you perform the ship mancala like normal, including performing the action where you drop your last ship
+- You're basically trading a resource produciton for the ability to take 2 actions
+
+#### Free action
+
+At any time you can pay 3 gold to the supply to gain a resource of your choice
+
+## End game
+
+End of the game is triggered when one of the following conditions is met:
+
+- Any player reaches the top of the reward track
+- 3 or more ship tokens from the same player have reached the destination tile at the end of paths
+- All small and large ships are removed from a player's shipbuilding track
+- All construction disks are removed from a player's construction track
+- All the jar tokens have been taken from the supply
+
+When one of these conditions is met, finish out the roudn so everyone has an equal number of turns
+
+## Scoring
+
+- Count up number of ships, buildings, and jar tokens. Some trading port tiles give extra of these icons
+- Gain points from each of these based on your position on the reward track
+- Gain points from trading port tiles with end game scoring
+- Set collection
+    - For every set of 1 wild animal, 1 exotic animal, 1 man, and 1 woman, gain 12 points. 
+- Vicotry point from destination tiles (at the end of paths)
+- 12 points for each honor card
 
 
 
