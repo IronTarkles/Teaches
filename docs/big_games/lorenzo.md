@@ -97,3 +97,19 @@ After all players have used all their family members:
 ## End of a period
 
 At the end of every period of two rounds, so after rounds 2, 4, and 6, there is a church phase
+
+- Check to see if your faith marker made it to the minimum required level on the faith track. There are 3 different outcomes
+    - If you don't meet the required level, put a cube on the period token. You now suffer this penalty for the rest of the game. Your disk stays where it is
+    - If you meet the requirement, decide to either:
+        - Not support the church: put a cube on the period token. Suffer that penalty for the rest of the game. Leave the disk where it is (essentailly the same as failing the check)
+        - Support the church: Gain the points shown on your step of the faith track. Do not place a cube. Reset your faith marker to the beginning of the faith track.
+
+## End of the game
+
+After the end of the third period (so the end of 6 rounds) proceed to scoring:
+
+- Points of the highest space you have a green card in (reminder in space)
+- Number of blue cards acquired (reminder at bottom of playerboard)
+- Points from purple cards
+- Points for first & second place on military track ( reminder at top of military track)
+- Combine all resources, 5:1 conversion
