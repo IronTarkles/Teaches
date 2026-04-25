@@ -95,6 +95,13 @@ Each of these can be done once on a resource action turn
     - If you have a workshop tile on the die space matching the die used this turn, gain that bonus
     - Although the white die can have two workshop tiles, you only get to activate one
 
+### Free actions
+
+At any time you can perform free actions (reminder on playerboard)
+
+- Lose 1 prestige point for 2 money
+- Lose 1 prestige to reroll all the dice in a space. This can only be done once per turn
+
 ## End of the game
 
 The game is over whenever someone builds their 6th cathedral card. They get 3 additional prestige (eagle) points for triggering. Everyone else then gets one final turn.
