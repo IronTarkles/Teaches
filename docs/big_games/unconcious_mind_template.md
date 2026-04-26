@@ -1,6 +1,6 @@
 ## Overview
 
-!!! note
+
     We are members of a psychological society started by Sigmund Freud devoted to psychoanalysis (or study of the unconscious mind). 
 
     As members of this society, we aim to come up with new therapeutic techniques, grow our clientele, and become Freud’s most distinguished contemporary. To do this we will discuss ideas with peers, compile notes, and publish theory. To do all this we’ll also need a lot of coffee
