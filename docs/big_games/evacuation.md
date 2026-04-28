@@ -174,4 +174,6 @@ How you use your spaceships to transport resources and buildings to the new worl
 
 ### Bonus check
 
+Friendly bonus, get the lower one no matter what, get the higher one if you meet it 
+
 ### Cleanup
