@@ -21,10 +21,14 @@ On a turn you have 2 options, either reserve an empty space or draw a tile from 
 
 The draw stack is made up of two types of tiles. A bunch of flea market tiles, and one stall of each type per player
 
-### Flea market tile
+#### Flea market tile
 
 When you draw a flea market tile, it must replace one of your own reservation disks. 
 
 - You will get the disk back to your supply
 - Add a flea market stall on top of the tile
 - This removes your reservation, but now puts an obstacle to block other player's paths
+
+#### Stall Tile
+
+A stall tile shows one of the 4 types of goods
