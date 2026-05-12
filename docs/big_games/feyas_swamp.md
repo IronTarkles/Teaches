@@ -67,4 +67,51 @@ Actions are broken down into 2 major categories
 
 #### Boat actions
 
+- Taking a boat action allows you to take the action once for each boat that you have on the board
+- A boat action is taken in the location where the boat token is
+- Before taking an action, you may move your boat up to your sailing value
+    - Sailing value on top right of guide card plus
+    - Sailing value on playerboard track (in the center)
+- Since your boats start in settlements, its first movement will move it into the water
+- Subsequent moves must be through adjacent water spaces
+- You can move through other boats, but can't end on a space with a boat in it
+- You can only move your boat if you take the action. Since your action happens where your boat is, you have to move to a spot legal to do the chosen action, or else the boat doesn't move at all.
+
+##### Build settlement
+
+![build_icon](images/feyas_swamp/fs_build_settlement.png)
+
+- Each boat can sail, and then build a settlement adjacent to its destination
+- Take the leftmost settlement token from any of your 4 settlement rows on your playerboard
+    - The settlement must be placed in an empty hex adjacent to the boat, and as part of an island which is adjacent to the boat (before the tile is placed)
+    - You can't join islands together, they must always stay separated
+    - You can't close off a temple space or another player's boat from the rest of the swamp (no trapping people)
+
+
+##### Fish
+
+![fish_icon](images/feyas_swamp/fs_fish.png)
+
+##### Trade
+
+![trade_icon](images/feyas_swamp/fs_trade.png)
+
+##### Sail
+
+![sail_icon](images/feyas_swamp/fs_sail.png)
+
 #### Ground actions
+
+Unlike boat actions, these are all resolved only once, and none are location dependant
+
+##### Improve sailing
+
+![improve_icon](images/feyas_swamp/fs_improve_sailing.png)
+
+##### Celebrate
+
+![celebrate_icon](images/feyas_swamp/fs_celebrate.png)
+
+##### Add spirit worship
+
+![celebrate_icon](images/feyas_swamp/fs_add_spirit.png)
