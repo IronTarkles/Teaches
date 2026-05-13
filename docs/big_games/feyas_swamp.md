@@ -113,7 +113,7 @@ Actions are broken down into 2 major categories
 - Trading with opponents earns you gold
     - First fish on a pile earns 4 gold, 2nd fish gains 3, third fish gains 2
 - You can't stack higher than 3, but a boat can trade with multiple settlements if it is adjacent to more than one
-- Putting fish on your own settlement will not earn you gold. Each fish placed on a player's owned settlements will eventually get them points through a different action
+- Putting fish on your own settlement will not earn you gold. Each fish placed on a player's owned settlements will eventually get them points when settlements eat the fish through a different action
 
 ##### Sail
 
@@ -131,14 +131,72 @@ Actions are broken down into 2 major categories
 
 Unlike boat actions, these are all resolved only once, and none are location dependant
 
-##### Improve sailing
-
-![improve_icon](images/feyas_swamp/fs_improve_sailing.png)
-
 ##### Celebrate
 
 ![celebrate_icon](images/feyas_swamp/fs_celebrate.png)
 
+This is how the settlements eat the fish
+
+- Choose any single island containing at least one traded fish (so a settlement with a fish on it)
+- Gain one point for every settlement on that island containing at least one fish (regardless of settlement owner)
+- Each settlement owner gets one point per fish removed from one of their tiles
+- Remove all fish from all settlements on that island
+- Since settlements can never have more than 3 fish on them, this action is what resets islands for future trading
+
+##### Improve sailing
+
+![improve_icon](images/feyas_swamp/fs_improve_sailing.png)
+
+- Move your sailing marker on your playerboard up one step
+- Immediately gain the points covered up
+
 ##### Add spirit worship
 
 ![celebrate_icon](images/feyas_swamp/fs_add_spirit.png)
+
+- Only one player can take this action per round
+- Take a spirit tile from the stack and add it to any island
+    - It doesn't need to be adjacent to a boat of yours, but otherwise follows same placement rules as settlements
+- The first time this action is performed, add the totem token to the island that you just extended
+- Any subsequent time that a spirit tile is placed, move the totem to the new island
+- While the totem is present:
+    - Every fish traded with an opponents settlement is worth one extra gold
+    - Any player taking the celebration action gains a bonus 3 points when scoring that island
+- You can never add a spirit tile to the island with the totem.
+
+### Passing
+
+If you can't or don't want to take an action, you pass
+
+- Take a round bonus token from the current round
+    - Most of the time these are one time use actions or benefits that you can spend for it's benefit during your turn in addition to your worker placement
+    - In the final round these are just worth points
+- If your guide card has a passing effect (represented by the moon icon on the bottom box), resolve it
+- Return your guide to the guide offer row, and choose a different one from those available. That will be your guide card for the next round
+- The last player to pass also places a spirit tile, following the same rules as the spirit worship action
+
+### Maintenance phase
+
+Once everyone has passed, we go to the maintenance phase
+
+- Flip over the current round's fish card
+- Arrange the turn order meeples according to the initiative of the guide cards that players took (lowest number is higher in turn order)
+- Everyone retrieves their player color workers
+- Return neutral workers to the supply
+- Add a fish to each unchosen guide
+
+## Scoring
+
+We've talked about ways to get points througout the game, but there are also 3 public objectives that we're racing for
+
+- At the end of each of your turns, you check for objective completion
+- Whenever you meet one, put your flag marker on the highest available point total and then gain the points immediately
+
+End game scoring after round 4: (there is a reminder for this along the edge of the shared board)
+
+- Each of your settlements scores points equal to the number of spirit tiles on it's island
+- Score points for the 2 end game scoring cards
+    - These are all settlement placement objectives
+- Score 1 point for each fish left on one of your settlements
+- Score one point for each left over mana
+- Each left over gold is worth one point
