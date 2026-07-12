@@ -95,3 +95,5 @@ You will need to spend the appropriate color die to interact with a card (find t
 ![merchant card](images/troyes/troyes_card_example.png)
 
 First off, you'll have to have a tradesman on a card to interact with it. 
+
+- Top left of the card shows the cost to put a trdsman on it
