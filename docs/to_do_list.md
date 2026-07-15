@@ -1,7 +1,6 @@
 # To-do list
 ## Big games
 - Abomination 
-- Amun Re 
 - Autobahn 
 - Carnegie 
 - Concordia 
@@ -10,7 +9,6 @@
 - Dune (with everything but bloodlines) 
 - Endeavor: Deep Sea 
 - Eternal Decks 
-- Evacuation 
 - Feast for Odin 
 - Gallerist 
 - Grand Austria Hotel (with Letz Waltz)
@@ -21,14 +19,10 @@
 - Millenium Blades 
 - Obsession (with all expansions) 
 - Praga Caput Regni 
-- SETI 
 - Spirit Island 
 - T'zolkin 
-- Underwater Cities
 - Unfathomable 
 - Viscounts of the West Kingdom 
-- Wayfarers of the South Tigris 
-- Windmill Valley 
 - Xia
 
 ## Card games
