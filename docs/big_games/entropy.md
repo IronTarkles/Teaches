@@ -20,7 +20,7 @@ The goal of creating these solar systems are to create conditions in which life 
 - Creating life is one of the ways to get points
 - The gold bottom portion of the board has tiles that award points for people who get a certain number of oganisims in their solar systems
 - We'll do this by playing lifeform cards onto a specific planet
-- Life cards have tags in the top right that they need to have present in your solar system for them to be able to live there
+- Life cards have tags in the top left that they need to have present in your solar system for them to be able to live there
     - Tags can be met though a single planet and your star combined
     - Cards also show the amount of that lifeform that will be placed on that planet in the form of tokens
 
@@ -79,7 +79,65 @@ Before taking your action, check to see if you earned a traffic bonus
     - Normally you could land in the same section as another player, but just pick the other action space and not be affected
     - In linked sections it is treated the same as if you moved into the action space with them, and you suffer the traffic penalty.
 
-### Actions
-
 After moving and gaining your traffic bonus, you will take the action of the space you landed on.
+
+###  Major Actions (inner ring)
+
+#### Evolve a Star action
+
+![Star icon](images/entropy/e_star.png)
+
+This action lets you either evolve a star you already have in a solar system, or make a new star.
+
+Upgrading a star
+
+- There are 4 different tiers of star on the main board, connected by arrow lines
+- All stars in a stack are identical
+- Everyone starts the game with a tier one star, either 1a or 1b
+- Different stars in the same tier will have different life condition symbols up top and different activation bonuses
+- Which star you have also dictates the path it can be evolved along.
+- You must follow the arrows when evolving, so 1b can't evolve into 2a, because they're not connected by arrows
+- You can only upgrade to the next direct level
+- Pay the cost in energy of the star you're upgrading to, and then physically replace the star you're upgrading with it and return the old one to the board. If it was a starting star return it to the box instead
+
+Create a new star
+
+- Spend one energy and take one of the red stars.
+- You can add it to an existing solar system that doesn't have a star
+- You can also make a new solar system with it by grabbing a solar system tile and putting the sun on it
+
+No matter which option you choose, you do not activate the star
+
+#### Agregate a planet
+
+![Planet icon](images/entropy/e_planet.png)
+
+This is how you get planets in your solar systems
+
+- Choose a visible planet tile and pay the mass shown on it to take it
+- Activate the planets effect, then flip it over and place it in either
+    - An empty planet space in an existing solar system (each can only have 2 planets)
+    - A new solar system by also taking one of those tiles
+
+#### Create life
+
+This is how you play life cards from your hand onto planets.
+
+- To play a card, you must meet its life conditions. 
+    - The chosen planet, any asteroids on it, and the star all contribute their tags.
+- Some cards may also show a different type of lifeform with a red number in the cost. 
+    - That means you must already have the depicted lifeform on the chosen planet and remove the number shown as part of the cost of the played card.
+- When playing a life card, you may discard one other life card from hand to reduce the requirements on the played card
+    - Choose one icon on the played card to ignore
+- Add the indicated number of lifeform tokens to the planet tile
+- Resolve the effect at the bottom of the card
+- Flip the card over and put next to the planet tile
+
+Each planet is limited to 3 life cards. Each planet can have a max of 5 lifeforms of each type.
+
+The traffic bonus of this action adjusts the number of lifeform tokens from the played card
+
+### 
+
+
 
