@@ -85,7 +85,7 @@ After moving and gaining your traffic bonus, you will take the action of the spa
 
 #### Evolve a Star action
 
-![Star icon](images/entropy/e_star.png)
+![Star icon](images/entropy/ent_star.png)
 
 This action lets you either evolve a star you already have in a solar system, or make a new star.
 
@@ -110,7 +110,7 @@ No matter which option you choose, you do not activate the star
 
 #### Agregate a planet
 
-![Planet icon](images/entropy/e_planet.png)
+![Planet icon](images/entropy/ent_planet.png)
 
 This is how you get planets in your solar systems
 
@@ -120,6 +120,8 @@ This is how you get planets in your solar systems
     - A new solar system by also taking one of those tiles
 
 #### Create life
+
+![Create life icon](images/entropy/ent_life.png)
 
 This is how you play life cards from your hand onto planets.
 
@@ -135,9 +137,137 @@ This is how you play life cards from your hand onto planets.
 
 Each planet is limited to 3 life cards. Each planet can have a max of 5 lifeforms of each type.
 
-The traffic bonus of this action adjusts the number of lifeform tokens from the played card
+The traffic bonus of this action adds additional lifeform tokens from the played card
 
-### 
+### Minor actions (outer ring)
 
+#### Catch an asteroid
 
+![Asteroid icon](images/entropy/ent_asteroid.png)
 
+This is how you can add additional tags to planets
+
+- Take an asteroid tile from the main board, paying 1 mass if you take a blue or purple asteroid
+- There are two slots on each planet for an asteroid
+    - You pay a cost and cover the space with the asteroid
+    - So if you pay two mass, cover that space, if you pay 1 lifeform from that planet, cover that space
+- This tag is now counted when checking for life conditions on this planet
+- After placing an asteroid, you resolve the planet's effect
+
+#### Upgrade console
+
+![Console icon](images/entropy/ent_console.png)
+
+How to upgrade your playerboard cards
+
+- Each player has a unique set of 3 focus cards tucked in their playerboard
+- These cards can get you a bonus whenever you place the corresponding creation token
+- First, pay 3 energy to upgrade a card (shown on playerboard)
+- Flip the card over so the gold background is showing
+    - Now whenever you place this creation token, you get the bonus shown in gold
+- Then, if the corresponding creation token is on the board, retrieve it.
+    - Doing this does not activate the creation token return bonus of entropy/star activation
+- Focus cards all have 3 tiers
+    - 0: Does nothing
+    - 1: Effect triggered whenever creation token is used
+    - 2: A powered up version of this effect
+- Note that the wild creation token does not have a focus card, and using the wild token will never trigger any of your focus cards
+
+#### Set a biome
+
+![biome icon](images/entropy/ent_biome.png)
+
+How you create biomes on planets
+
+- Take a tile from any of the 4 stacks and place it next to a planet of yours
+- Each planet can only have 1 biome
+- Biomes provide ongoing abilities that are triggered by specific action spaces
+- Bottom left of the biome shows the action on the left, and the bonus you get when you take it on the right
+- Right side of the tile shows how to upgrade the tile. When the condition is met, flip it over and your bonus gets better
+
+#### Draw life cards
+
+![draw cards icon](images/entropy/ent_draw_cards.png)
+
+Take two life cards from any of the available stacks
+
+#### Primordial soup
+
+![soup icon](images/entropy/ent_soup.png)
+
+- Gain 1 mass and 1 energy
+- Advance your generator marker (triangle shown, track is below asteroids)
+- This track modifies the next action we'll talk about by giving you discounts
+- There are spots on this track you'll gain points when you advance past them
+
+Traffic bonus here allows you to advance lifeform tokens. Each advancement lets you
+
+- Gain 1 bacteria
+- Exchange 1 bacteria for a plant
+- Exhange 1 plant for 1 animal
+- Reminder, max of 5 of each type of token on a planet
+
+#### Activate stars
+
+![activate stars icon](images/entropy/ent_activate_stars.png)
+
+- Choose any number of stars in your play area to activate
+- Activate them each one time, paying the entropy on the left to gain the bonus on the right
+- Going back to the generator track
+    - Your marker on this track gets you an entropy discount on a number of star activations
+    - You get a discount of X entropy (show at top) across Y star activations (shown on bottom)
+    - So first space on track gets you a discount of 1 entropy on 1 star activation
+    - Second space gets you a discount of 1 entropy on 2 different star activations
+    - Last space gets you a discount of 3 entropy on 4 different star activations
+
+On a turn you can always trade 2 entropy for one energy or one mass
+
+### Mission and objective check
+
+At the end of your turn, you'll always check for any missions or objectives that you fufill
+
+#### Mission cards
+
+- Each player starts the game with 2 mission cards in hand
+- At the end of your turn, if you've met the condition up top, you may reveal it to get the bonus on the bottom
+- You get to do this when you want, not forced to do it immediately as soon as you meet the condition
+- Typically a multiplyer of resources for every time you've met a condition
+- You will only be able to complete one mission card. As soon as you do, the other is discarded
+
+#### Multiplyer Objectives
+
+Bottom part of the board show 3 endgame objectives in different tracks, and lifeform conditions in the gold area
+
+- Three separate tracks that look for when things happen
+- When you do the condition, move up one on the track
+    - Lefmost is when you upgrade to a level 3/4 star
+    - Middle is when you catch an asteroid for the first time in a solar system
+    - Right is when you upgrade a biome
+- At the end of the game, your progress on each of these objective tracks will give you points multiplied by the condition at the bottom
+    - leftmost is number of same type planets in your solar system
+    - Middle is each biome that contains at least 1 life card
+    - Right is different types of stars
+- We can share spaces on these tracks, but the final space of each track can only hold 1 player's token
+
+#### LIfeform objectives
+
+The first person to have the indicated amount of tokens across all their solar systems takes the token and gains the points at the end of the game 
+
+- Multiple players can score the small tokens
+- Only one player can score the large token
+
+## End of the game
+
+End of the game is triggered whenever 2 medals are acheived
+
+- Medals are present at the end of each endgame multiplyer track
+- Medals are present under each big life scoring token
+
+We'll finish out the round, then everyone gets one final turn
+
+### Scoring
+
+- Points earned during game
+- Points from lifeform objective tiles
+- Points from main objective tracks
+- Resource conversion of 4:1 for wood and life cards
