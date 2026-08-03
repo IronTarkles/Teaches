@@ -60,6 +60,7 @@ We'll start by revealing activity cards
 - For each citizen you have in a building, you'll gain a die of that color
 - Roll all your die, and then put them in your district in the center of the board
 - We also assemble die this way for the gray neutral citizens, placing them in the neutral district after they're rolled
+- In this way, all dice will be assigned to a district 
 
 ### Events
 
@@ -85,6 +86,8 @@ We'll start by revealing activity cards
     - If you're using 1 die for the action, it'll cost 2 money if coming from another player
     - If you're using 2 die for the action, each die from another player costs 4 money
     - If you're using 3 die for the action, each die from another player costs 6 money
+
+This wasn't mentioned when we were talking about countering black dice because you have to use only your own dice for that. 
 
 Now on to the actions
 
