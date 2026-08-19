@@ -69,4 +69,60 @@ When you choose to work,most of your action tiles show a little paw print with a
         - This means gain X for how many bridges you've crossed so far this round (can tell by how many tokens you have out)
         - For example a card that showed coins x 2 pawprint would mean gain 2 coins for every 2 bridges that you've crossed
 
+Whenever you build a full set of cards, you'll get to drop a house on the board where you don't already have one. We also all start with one on the board.
 
+- These will give bonuses in the next phase
+- Building all your houses will get you a queens favor token. These will give you unique end game scoring objectives
+
+One of your action tiles doesn't show pawprint tokens. This lets you meet the queen
+
+- You take the first player marker
+- You get whatever bonus the queen card for the round shows
+- Tuck the card under the matching guild on yuour board
+- You will not move your player piece this turn
+
+On a turn if you ever put out your 6th or 7th pawprint token, you'll be awarded points immediately. If you're able to use all 7 bridges in a round, you'll gain 7 points.
+
+- Crossing a 6th bridge could happen organically
+- Crossing a 7th bridge is only possible by using the hot air baloon token
+    - Pay 3 coins if the baloon is in the same location, or 10 coins if it is in a different one
+    - Move your worker and your baloon to the region of your choice
+    - You can use the baloon only when choosing the work action
+    - Must be used before or after movement, but not during
+    - The baloon is used before you buy a card for the turn
+
+After aquiring a card, you'll take a look to see if you've met any of the goals on the tree board
+
+- These are objectives that we're racing for over the course of the game
+- If yout meet one or more, you'll put one of your tokens on the highest available points and gain them immediately
+- Some of these objectives may be for resources. It is just a check they are not spent
+
+Resources that you're gaining over the course of the game aren't actually spent on anything, but will be important for end game scoring
+
+- At the end of the game we'll get points for each guild based on how far we've advanced on their cooresponding resource track
+- On the resource tracks there are spaces to put flower and sculpture tiles. Some cards will reward these tiles. These tiles all show little yellow stars on them.
+- When you gain a tile, put it on a matching space wherever on your playerboard
+- At the end of the game, these stars will be multipliers for the cards in the cooresponding guild as long as your resource marker has passed them.
+- There are other bonuses on the resource tracks that you get when you land on or pass over them
+- If you max out a track you get a queens favor token from the bottom of the tree board. These will give you unique end game scoing objectives
+
+## Evening phase
+
+Once we've all taken 4 actions, we'll move into the evening phase. This is done in turn order
+
+- If you end the round in an area with one of your houses, you'll get a bonus income
+- Your choice of one from the top of the board or one of your structures at the bottom
+- Moves all your action tiles back to the same side of their baord
+- Returns all of your paw markers
+- Check to see if you claim any goals (this is why it is done in turn order)
+
+## End of game
+
+At the end of the 4th round, we'll go to end game scoring
+
+- For every 5 coins you have, you'll move up one on the invest track.
+- Gain VP based on invest track position
+- Calculate guild card VP
+    - For each guild (except deer) multiply the number of cards in the guild times the number of stars your resource marker in that color has passed.
+- Look at the lowest resource on your track to determine the number of VP each of your structures is worth
+- Score all your favor of the queen tiles
