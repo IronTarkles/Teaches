@@ -25,19 +25,74 @@
 - Xia
 
 ## Card games
-- Aiye
-- Luz
-- Planet etuc
-- American bookshop
-- stick 'em
+- 1am jail break
+- 6 forces
 - Bid coin
-- Revolve
-- Trick raiders
-- Band of tricks
+- American Bookshop
+- Bacon
+- Band of Tricks
+- Bargain rush
+- Bottle imp
+- Cena
+- Cursed tricks
+- Dog tag trick
+- Dokkito ice
+- Eleven
+- Charms
+- Hachi train (jungo)
+- Hii fu
+- Hund
+- Identity
+- Idle hands
+- In front of the elevators
+- Inflation
+- Kansas City Trick
+- Le plateau
+- Loop
+- Madam watchdog burglar
+- Makifuda
+- Mamoranger
+- Man eating house
+- Mu
+- Luz
+- New record
+- Nightmare Millionaire
+- Odin
+- No loose ends
 - Owl about
-- Tindahan
-- Bears
-- Bears teams
-- Witches Shot
-- Madam Watchdog Burglar
-- Top of Hinode Town
+- Pala 
+- Pass
+- Planet etuc
+- potato man
+- Quashars
+- Quatro trick taking
+- Rewind
+- Robotrick
+- Ruins
+- Schadenfreude
+- Scharfge schoten
+- Seers catalog
+- Shock!
+- Skull queen
+- Sluff off
+- Somnia
+- Spring cleaning
+- Startups
+- Stick 'em
+- Stoncks
+- Switch to
+- Tezuma Trick
+- Tichu
+- Top of hinode town
+- Torchlit
+- Trendy
+- Trick of the rails
+- Tricktakers guide (need paste ups)_
+- Tricky time crisis
+- Vampire queen
+- Verhext
+- Was sticht
+- Wind the film
+- Wish upon a star
+- Worst in show
+- Yokai

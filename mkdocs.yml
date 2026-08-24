@@ -27,6 +27,7 @@ nav:
     - Lightning Train: big_games/lightning_train.md
     - Lisboa: big_games/lisboa.md
     - Lorenzo Il Magnifico: big_games/lorenzo.md
+    - Medici: big_games/medici.md
     - Orloj: big_games/orloj.md
     - Ostia: big_games/ostia.md
     - Railways of the Lost Atlas: big_games/lost_atlas.md
@@ -45,6 +46,7 @@ nav:
     - Zapotec: big_games/zapotec.md
   - Card Games:
     - Cauldron 15: card_games/cauldron.md
+    - The Crew - Journey to the Ends of the Earth: card_games/crew_journey.md
     - Depot: card_games/depot.md
     - Live Mix: card_games/livemix.md
     - Mot Coin: card_games/mot_coin.md
