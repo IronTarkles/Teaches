@@ -1,28 +1,56 @@
 # To-do list
 ## Big games
 - Abomination 
+- Age of galaxy
 - Autobahn 
+- Aiya
+- Beyond the sun
+- Bier pioneer expansions
+- Bloody Inn
+- cafe
 - Carnegie 
+- Cascadero
+- Clans of Caledonia
+- Come sail away
+- Comic Hunters
 - Concordia 
 - Daitoshi 
-- Darwin's Journey (Expansions) 
+- Darwin's Journey (Expansions)
+- Die macher
+- El grande
 - Endeavor: Deep Sea 
+- Epona
 - Eternal Decks 
 - Feast for Odin 
+- Fleet the dice game
+- Furnace
 - Gallerist 
 - Grand Austria Hotel (with Letz Waltz)
 - Guards of Atlantis 2 
+- Hansa
 - Hitodama  
 - Keep the Heroes Out 
+- Marco Polo 2
 - Marrakesh 
 - Millenium Blades 
-- Obsession (with all expansions) 
-- Praga Caput Regni 
+- Moon colony blood bath
+- Newton (expansions)
+- Obsession (with all expansions)
+- Old kings crown 
+- Oliva
+- Praga Caput Regni
+- Recall
+- Shinjuku
 - Spirit Island 
 - T'zolkin 
+- Teotihucan
+- Trajan
 - Unfathomable 
+- Welcome to the moon
+- Xenon profiteer
 - Viscounts of the West Kingdom 
 - Xia
+- Zoo vadis
 
 ## Card games
 - 1am jail break
