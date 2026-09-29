@@ -1,3 +1,5 @@
+Come back to add something to the overview about the equations?
+
 ## Overview
 
 In an alternate history where Charles Babbage accepts the offer of Ada Lovelace to assist with turning his analytical engine into the first ever computing machine; we play as her assistants tasked with building different prototype parts of this machine.
@@ -79,11 +81,49 @@ The other type of turn you can take, where you'll take a die from the store on y
 - Every removed disk unlocks a slot where you can later build a gear
 - If an action lets you place a disk, but you can't, you can move a disk already on the board
     - The exception is if you're moving a disk to an objective, you can't move a disk that is qaulifying you for that objective
+- The more discs you place, the more gears you can build, the more lines you can complete, the more points you'll score
 - At the end of the game, completed rows and columns will be evaluted by the equations that you've made and award points (dice are numbers, gears are operations so like 5 x 2 - 1) 
 
 Lets talk about the actions
 
 #### Ada's Study
 
-Purple.
+Purple area wher you'll gain programs and gears to help with scoring your playerboard, assignments to help you research, and the book resource.
 
+The main action here (summarized in the black box) is to select a program tile and one of the study rewards
+
+Program tiles are the ones with the holes in them
+
+- You'll select one from the line up to slot in your playerboard
+- They go into one of the thin slits at the start of a row or column
+- Gain the bonus of the row of column where you slot it
+- At the end of the game programs can score you points
+    - If the row or column alligned with it has 3 dice (number of gears doesn't matter)
+    - If you've satisfied the condition on the program tile, you'll score the points
+    - The conditions care about how you have dice laid out in that row/column (specific numbers, colors, ascending, etc)
+- After selecting a program tile, if a card is still in the rightmost space in the display, it is removed and everything slides down. Refill from the deck
+
+After grabbing a program tile, you'll grab your choice of study reward
+
+- Grab a book
+    - These allow you to gain publish bonuses that we'll talk more about
+- Gain an addition gear tile
+- Gain an assignment card
+    - These are the cards that tuck under your playerboard and allow you to get bonus research when taking dice from the workshop
+    - When you gain, choose any from the display
+    - Gain the bonuses on the card
+    - Tuck it under the matching color slot on your playerboard (gray cards can go in a column of your choice, cards with multiple colors can go in either color slot)
+    - Then if a card is is still in the rightmost space in the display, it is removed and everything slides down. Refill from the deck
+    - Some assignment cards have a cost in the top left. These require you to discard a certain number of cards from hand to take them
+    - If you can't discard that many cards, you can't take the assignment
+- Assignment cards will get cycled through even if the person taking the purple action does not grab one
+- Basically if someone comes to the study, the assignment cards will get cycled 
+
+If you've unlocked advanced actions on the purple research track
+
+- First allows you to gain a 2nd study reward (different from the one you already took)
+- Second allows you to gain all 3 study rewards every time you come here
+
+#### Travel
+
+Blue area
