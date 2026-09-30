@@ -88,7 +88,7 @@ Lets talk about the actions
 
 #### Ada's Study
 
-Purple area wher you'll gain programs and gears to help with scoring your playerboard, assignments to help you research, and the book resource.
+Purple area where you'll gain programs and gears to help with scoring your playerboard, assignments to help you research, and the book resource.
 
 The main action here (summarized in the black box) is to select a program tile and one of the study rewards
 
@@ -126,4 +126,63 @@ If you've unlocked advanced actions on the purple research track
 
 #### Travel
 
-Blue area
+Blue area where you'll travel around the country visting cities and universities to get different bonuses
+
+Main action here is to move your travel token to a new city and activate it
+
+- You can move through any number of cities on your turn, but you must pay the cost for the route you use
+- Cost is shown in the bottom right of the area
+    - Roads cost $1
+    - Rails cost $2
+    - Ferrys cost $4
+- In the city where you end your movement:
+    - Gain the bonus shown
+    - If there is a round space place one of the disks from your playerboard there
+    - You can only have 1 disk in a city, but multiple players can have disks there
+    - Disks in these spaces get you points at the end of the game. You get additional points for every disk placed on top of yours
+
+If you've unlocked advanced actions on the blue research track:
+
+- First level: After resolving your main action, move to the next small city for free and gain the bonus there
+- Second level: After resolving your main action, you may instead move to a small city up to 2 small cities away for free and then gain the bonus there
+    - Moving to the next small city means you could potentially skip over a university space to get to the next small city
+
+#### Meeting
+
+Yellow area where you'll attend meetings to try and get the great minds of the time to lend you their aide (getting new cards)
+
+Main action here is to take a disc from your board and put it in the top leftmost empty space of any of the tables in the top half of the meeting area.
+
+Oce there are 4 disks in a meeting room you can't place any more there.
+
+- The space you choose will dictate your action cost and the choice of cards you'll have
+- Cost is shown above the meeting room
+    - Leftmost being $5 or 3 innovation, rightmost being $2 or 1 innovation
+    - Innovation is the lightning bulb track on your playerboard, move the marker down to pay it
+    - Progress on this track can get you end game points
+    - Reaching the top lets you immediately spend 2 innovation to gain a workshop bonus
+- Card selection range is shown at the bottom of the meeting room
+    - Cheapest spot only lets you take from that slot
+    - More expensive slots let you take from a better range of slots
+- You'll pick the partner card to gain
+    - Put the new card into your hand
+    - Remove one of your existing partner cards from the game (has to come from hand or discard)
+    - Remember you'll never get more cards, you're always replacing an existing one
+- Based on the meeting room slot you drew from, you may get to draw cards
+- After you've grabbed your card, if there is a card left in the rightmost slot remove it. Slide down to fill and then replenish from deck
+
+Advanced Actions:
+
+- First level: After the main action, you may then play a card from your hand without meeting/paying the normal cost
+- Second level: After the main action, you may draw 2 cards and then play one from your hand for free
+
+There are also science scoring tokens above each meeting room
+
+- At the end of the game we'll check majority of disks in each room
+- Most disks gets the 2 point tile, all others in that room get 1 point tile
+- If there is a tie for most disks in a room, all tied players get a 1 point tile and no one else in the room gets a point tile
+- These tiles award points for your partner cards with matching tags at the end of the game
+
+#### Institutions
+
+Green area where
