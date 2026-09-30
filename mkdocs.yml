@@ -6,6 +6,7 @@ nav:
     - index.md
     - to_do_list.md
   - Big Games:
+    - Ada's Dream: big_games/adas_dream.md
     - Age of Rail - South Africa: big_games/rails_south_africa.md
     - Agricola: big_games/agricola.md
     - Ants: big_games/ants.md

@@ -108,6 +108,7 @@ After grabbing a program tile, you'll grab your choice of study reward
 - Grab a book
     - These allow you to gain publish bonuses that we'll talk more about
 - Gain an addition gear tile
+    - Gears are gained into your supply to later be built
 - Gain an assignment card
     - These are the cards that tuck under your playerboard and allow you to get bonus research when taking dice from the workshop
     - When you gain, choose any from the display
@@ -185,4 +186,121 @@ There are also science scoring tokens above each meeting room
 
 #### Institutions
 
-Green area where
+Green area where you present your ideas via lectures to gain rewards
+
+For the main action you'll select an empty lecture space to put one of your player disks on
+
+- Divided into 4 columns and 6 levels
+- You can't place disks in level 1 or where there is already any disk
+- Place your disk on an empty space and then pay the cost to gain the effect
+- Cost is a little weird
+    - You pay in innovation, but you're not just paying the cost of the row where your disk goes
+    - You also pay the cost of every level below that disk until you hit another one of your disks
+    - So to place a disk in level 4, it would cost you 4 (2+1+1) innovation
+    - However, if you already had a disk in any level 2 space, going to level 4 would only cost you 3 innovation, because you ignore the cost of level 2 (since there is already one of your disks there)
+    - Having a disk in a row doesn't discount that same row. So if you had a disk in level 2 and then on a later turn took a different column's level 2 space, you'd still have to pay 1 innovation
+
+Advanced actions:
+
+- First level: Gain another bonus from an empty space of a lower level in the same column
+- Second level: Instead gain another bonus from any empty space of a lower level in any column
+
+There's also majority scoring for each row at the end of the game
+
+#### Action recap
+
+Just to recap, an action turn looks like this
+
+- Move a die from your store to the mill area of your board (storage > free die placement space)
+- Take the main action matching the die color
+- Complete the advanced action of that color if you have it unlocked
+
+### Publish or Construct
+
+After taking either a workshop or action turn, you then choose whether to publish or construct
+
+#### Publish
+
+Spend a book resource to complete the publish action of the area where you took your main action (shown in red spaces near area names)
+
+- Workshop
+    - Advance steam marker on your playerboard track
+    - First one is free, later advances cost coal
+    - The position of your marker on the steam track dictates the maximum that any completed row or column of yours can score at the end of the game from the equations you'll be making with dice and gears
+- Purple area
+    - Place a disk of yours from your playerboard out onto the main board on top of a disk you've previously placed
+    - You DO NOT get the rewards of the space again, but you do get to take the first level advanced action of wherever you place the disk, whether you've unlocked it or not
+    - You can never have more than 2 disks of your own stacked on the same space
+- Blue area
+    - Adjust die values on your playerboard
+    - Can be die in the store or in the mill
+    - Adjust by up to 4 dice pips total, this can be split across multiple dice or all used on the same die
+    - Dice do not wrap around from 1-6
+- Yellow area
+    - Gain a multiplyer gear tile from the display
+    - Gear tiles are added to your supply
+    - Immediately refill
+- Green area
+    - Swap any die from your playerboard with any die in the workshop
+
+#### Construct
+
+This is how you build gears from your supply onto your playerboard to enable end game scoring equations
+
+- Pay the cost shown on the gear to construct it
+    - Addition and subtraction gears always have the same cost to build
+    - Multiplication gears have different costs
+- Constructed gears are placed in empty gear spaces on your playerboard (where you've already removed a disc from)
+- Equations with gears are evaluated from left to right or top to bottom (not in PEMDAS)
+
+### Objectives
+
+The last thing you'll do on your turn is check to see if you've completed any objectives
+
+Every action area has an objective tile that players are racing for
+
+- At the end of your turn if you meet one of these conditions, prove it
+- Take a disc from your playerboard and put it on one of the point spaces
+    - If no one has claimed it yet, take the 7 point space
+    - If someone completes this objective in the same round, they will also place their disc on the 7 space
+    - If someone has claimed the 7, put your disc on the 3
+
+Before the next player takes their turn, discard down to 5 if you have more cards than that in hand.
+
+## End of the game
+
+On the turn where someone places their 9th die onto their mill area of their board (final die placement spot) the end of the game will be triggered
+
+- Continue playing until everyone has had an equal number of turns
+- Go to scoring
+
+## Scoring
+
+- Points for acheived objectives
+- Blue area
+    - Points on the univerity tile where you have placed any discs
+    - 2 pts for every disc placed on top of one of yours
+- Green area
+    - Every row awards points to the player with the most disks in that row
+    - For ties, all tied players get half of the points
+- Yellow area
+    - Every meeting room awards scoring tiles to players with discs there
+    - Player with the most gets the 2 pt tile, other players with discs there get a 1 pt tile
+    - In case of a tie for most disks, all tied players get a 1 pt tile, other players there get nothing
+    - Tiles award a number of points per card you have with the matching tag
+- Points on cards in your hand/discard/deck
+- Program tiles on board (punch cards)
+    - Check the dice in the same line as the program tile
+    - Need 3 dice to be placed to qualify for scoring it
+    - If you've met the condition on the tile, score the poitns
+- Completed equations
+    - A row or column is only complete if it has 3 dice and 2 geras
+    - Evaluate the equation from left to right or top to bottom
+    - Score for each line is limited by your steam track progress
+    - If the line was worth more than your steam power allows, it is reduced to that amount
+- Missing gears from your board lose you 2 pts each
+- Points from innovation track (highest number, not cumulative)
+- Points from assignment scoring tokens based on assignments in the same slot
+- Leftover resources
+    - Books 1 pt each
+    - Money, coal, brass added up 10:1
