@@ -4,6 +4,9 @@ We're running companies and expanding our business by investing in real eastage,
 
 The success of our company is of course judged by the amount of VP we can accrue
 
+Excellent player aide on bgg:
+https://boardgamegeek.com/filepage/315272/carnegie-rules-summary-in-a-wink
+
 ## Playerboards
 
 Our playerboard are our company boards, and our companies are organized into departments, which are the different rooms. 
