@@ -8,7 +8,6 @@
 - Bier pioneer expansions
 - Bloody Inn
 - cafe
-- Carnegie 
 - Cascadero
 - Clans of Caledonia
 - Come sail away
@@ -39,7 +38,6 @@
 - Old kings crown 
 - Oliva
 - Praga Caput Regni
-- Recall
 - Shinjuku
 - Spirit Island 
 - T'zolkin 
