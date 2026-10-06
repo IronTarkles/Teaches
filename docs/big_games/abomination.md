@@ -74,3 +74,48 @@ This space works a little bit different
 ## Playerboard
 
 Before talking about the rest of the action spaces, we'll talk about the player board to get a little context
+
+### Dials
+
+- Each dial has a corresponding icon that you may see come up in the game
+- When you see the matching icon, go up on that dial
+- The different dials have different bonuses and maluses (yes that is the word for a negative bonus)
+- Ever dial has end game victory points for your final position
+- Humanity
+    - Balance between the good and bad you're doing
+    - Rewards reputation gain or loss, as well as negative end game points
+    - The bottom space is locked. If you ever mess up so bad that you're at -10 humanity, you will never be able to gain humanity again, and will be losing 20 points at the end of the game
+- Repuation
+    - Your standing as a scientist in the community
+    - Rewards worker upgrades. 7 unlocks a new assistant, other spaces let you replace an assistant with a scientist
+- Expertise
+    - How capable you are at building the creature
+    - Rewards upgrades to dice you'll use to animate your creature
+- Losing any of these bonuses means that you lose them!
+    - Going down on humanity could cause you to lose reputation, which in turn could downgrade a worker
+
+### Materials
+
+Cubes represent the different materials
+
+- Brown cubes are muscles
+- Purplish cubes are organs
+- Red cubes are blood
+- Yellow cubes are animal parts
+- White cubes are bones
+
+When you gain materials, they go in one of the zones on your playerboard
+
+- Bones always go to the bone zone
+- Other materails go into one of the 4 numbered zones based on how fresh they are
+- These spaces represnt the decay of your organic materials. Stage 1 is the freshest, stage 4 is the oldest
+
+You'll mainly gain materials by harvesting cadaver cards
+
+- Cadaver cards will give you 2 options
+    - Gain expertise (the brain dial)
+    - Gain materials (cubes to playerboard)
+- Cadaver cards will show how fresh the materials retreived from them are, and the quantity of which types of materials you'll earn from harvesting them
+- Any time you resolve a cadaver card, it is returned to the bottom of the stack it came from
+
+You can never hold more than 12 bones, and can never have more than 15 total parts of a single freshness at any time
