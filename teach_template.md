@@ -2,11 +2,14 @@
     This is how to make a callout
 
 # Heading
-- Bullet point
+
+- Bullet point (must be an empty line before it)
+    - Bullet points can be indented
 - Bullet point
 - Bullet point
 
-## Smaller Heading
+## Sub Heading
+
 1. numbered list iten
 2. numbered list item
 3. numbered list item

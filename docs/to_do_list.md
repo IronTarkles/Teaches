@@ -107,7 +107,6 @@
 - Tezuma Trick
 - Tichu
 - Top of hinode town
-- Torchlit
 - Trendy
 - Trick of the rails
 - Tricktakers guide (need paste ups)_
