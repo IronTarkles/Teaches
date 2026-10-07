@@ -1,12 +1,10 @@
 # To-do list
 ## Big games
-- Abomination 
 - Age of galaxy
 - Autobahn 
 - Aiya
 - Beyond the sun
 - Bier pioneer expansions
-- Bloody Inn
 - cafe
 - Cascadero
 - Clans of Caledonia
@@ -78,7 +76,6 @@
 - Madam watchdog burglar
 - Makifuda
 - Mamoranger
-- Man eating house
 - Mu
 - Luz
 - New record
