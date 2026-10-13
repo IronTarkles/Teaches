@@ -68,6 +68,7 @@ nav:
     - Twinkle Starship: card_games/twinkle_starship.md
   - Con Games:
     - Feed the Kraken: con_games/feed_the_kraken.md
+    - Timespan: con_games/timespan.md
 
 # theme
 theme:
