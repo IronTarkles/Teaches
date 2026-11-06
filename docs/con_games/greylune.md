@@ -60,9 +60,42 @@ On your turn, you must take an action from those available to you in your curren
 
 ### Types of cards
 
-There are a few types of cards that work a little differently. They have different symbols in the bottom right
+There are a few types of cards that work a little differently. Some have seal tokens on them, and they have different symbols in the bottom right
 
-- Buildings (house symbol in bottom right). Can have a seal symbol in the top right or not
+- Buildings (house symbol in bottom right)
+    - Buildings with no seal have no innate cost. Remove your villager then just pay coins for villagers around the card and activate the effect
+        - The effect may be free or have a cost associated with it
+    - Buildings with seals you will remove your villager, pay any additional villager costs then choose a seal on the card. Remove the seal and resolve the card effect based on the seal you removed
+        - Depending on the card the number on the seal could equal a cost you need to pay, or be the number of times you resolve something else
+        - After resovling the card the seal is discarded. Buildings can't be activated once all of the seals are gone
 - Companions: Blue icon and blue bar
+    - Activating a copanion card gains you the card.
+        - Pay the coin cost on the card plus any additional villager costs
+        - Put the card on the left side of your playerboard
+        - Gain the reward in the top right (Will always be to gain a villager from the supply to your playerboard)
+        - You can only have up to 3 companions. Once you have 3, you can never gain another. So they're here to stay
+    - Companions have a reaction effect on the bottom
+        - When you do what is shown in the scroll, exhaust the card by turning it sideways to resolve the effect to the right of the scroll.
+        - So these are once per round abilities, cards will be readied again at the end of each round.
+    - Some companions also have a passive effect shown next to the cost in the smaller blue box.
+        - Passives are always active, whether the card is readied or exhausted
+    - Every companion also has and end game scoring listed in their blue bar
 - Items: Red icon and red bar
+    - Activating an item card gains you the card
+        - Pay the coin cost on the card plus any additional villager costs
+        - Put the card on the right side of your playerboard
+        - Some cards will have an immediate reward in the top right
+    - Items can reward victory points in the bottom left if you still have them at the end of the game
+    - Potion items will have a reaction effect that works like the one on companions.
+        - When thing in scroll happens, discard the potion to gain the reward shown next to the scroll
+    - Non potion items will have an action on them that you have to exhaust the card to use.
+        - Some of these will require only exhausting the card, others will require you to also send a villager to the camp
+    - As a summer action, you can activate one item
+    - Some items are one time use
+
+![Activate item icon](images/greylune/activate_item.png)
+
+- Like companions, exhausted items will refresh at the end of the round.
+- You are also only allowed to have up to 3 items at once.
+- Unlike companions, you may freely discard items to make room for new ones
 
