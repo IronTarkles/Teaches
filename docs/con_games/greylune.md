@@ -99,3 +99,123 @@ There are a few types of cards that work a little differently. Some have seal to
 - You are also only allowed to have up to 3 items at once.
 - Unlike companions, you may freely discard items to make room for new ones
 
+### What effects do
+
+All these cards be doing stuff
+
+![gain magic icon](images/greylune/magic_up.png)
+
+Strength and magic
+
+- When you see the red and blue symbols on your playerboard with a little arrow, move your token up on that track
+- If a track is maxed out and you gain movement on it, just gain a point instead
+- These stats are requirements to do some of the other stuff in the game
+
+![adventuring icon](images/greylune/horse.png)
+
+Horse icon means to go adventuring
+
+- The number in the horse is the amount you may move up to
+- There is a path on the main board with semi circle cldarings that you're moving around
+- You can move either direction
+- Wherever you end your movement, you can resolve an encounter in that location
+- Some spaces you can gain rewards from without interacting with a card. Like the first space could gain you a coin, the second a point
+- If there are cards associated with the location, you can interact with one of those instead
+    - The requirement for the encounter is shown on the bottom left scroll, with the reward shown on the bottom right scroll
+    - If you meet the requirement, take the card from the main board and gain the reward shown. You can't take a card if you don't meet the requirements
+    - Requirements with a solid line down the center mean you must meet either or
+    - There are two rewards on these double requirement cards, and you gain the reward of each requirement you meet.
+    - Some rewards are income tiles that will be added to the left column of your playerboard and gain you bonuses at the end of each round. You CAN have more than 3 of these
+    - Slot the encounter card under the top of your board on the book without a check mark
+- On the board spaces with a purple, red, and black colored flag, instead of resolving and encounter with a card, you can compelte the attached quest
+    - If you pay the cost or meet the requirement, put one of your banners on it for end game scoring. 
+    - First player to complete quest puts their banner toekn on the higher point total, with others putting their banner on the lower total
+    - These are end game points, you don't get them now
+
+![tell stories icon](images/greylune/tell_stories.png)
+
+The icon with a book and a checkmark is to tell your stories
+
+- What's the point in adventuring if you don't tell anyone about all the cool shit you did
+- This action is generally done at tavern buildings
+- In order to do this, you must have untold stoires, or cards tucked under the left book at the top of your playerboard
+- Take untold stories whose number adds up to 1, 2, or 3. You care about the sum of the numbers, not the number of cards
+- Move those cards to the told stories side of your board (the right with the check)
+- Taverns will always show 3 rewards. You gain the first if you told 1 book value worth of stories. You gain the first two rewards if you told 2 book value worth of stories. You gain all three if you told 3 book value worth of stories.
+- You are allowed to tell a value 4 story with specifically two 2 value books stories. You still only gain rewards as if it were a value 3 though.
+- Stories with a book value of 0 can't be told as part of a taver action. The only way to tell these is with an effect that modifies the value
+
+### Events
+
+Lets talk about another one of the main actions of the game, participating in events
+
+![event icon](images/greylune/event.png)
+
+- On the main board on the fancy looking green tile, there is a different event every round
+- There are a few different ways you can take this action across spring and summer
+    - Both seasons will let you activate the event by placing a villager from your playerboard
+    - Summer also lets you activate an event by placing a villager from the village
+- Regardless of how you do it, each player may only activate the event once per round
+
+### Other actions
+
+In summer, you may also take a special action 
+
+![special action icon](images/greylune/special_action.png)
+
+- Move a villager from the active area on your playerboard to the special action space at the top of that same column
+- This lets you pick from 3 options
+    - Gain a magic
+    - Adventure with a movement value of up to 1
+    - Tell stories using the printed rewards
+        - These rewards are worse than other ones for telling stories. Why would people at your house care as much as people in the tavern?
+- The special action can only be taken once
+
+To recap, we've talked about everything that you can do listed on the season board
+
+- In spring
+    - Place out villagers in the village
+    - Activate the event by placing a villager
+    - Move to summer
+- In summer
+    - Recall a villager from the village to either get money, gain a card, or activate the event
+    - Activate the event by placing a villager
+    - Activate a single item card
+    - Take a special action 
+    - Move to fall
+
+Fall is where we'll get income. 
+
+- Move your adventurer back to the starting space on the main board
+- Retrieve your villagers from the event and the camp (space on the season board)
+- Retrieve your viallger from special space if you used it
+- Ready all exhausted compansions and icons
+- Gain income
+    - Base income is 3 coins minus 1 for each companion you have (people gotta eat)
+    - Income from any additional tiles that you have placed
+- Once you've gone to fall you no longer take turns this round
+- When everyone has gone to fall, we'll move the the next round
+
+Winter is cleanup/set up for new round
+
+- First player marker will pass clockwise
+- Discard all remaning cards from the village
+- Discard all unclaimed encounter cards
+- Discard the prior rounds event and flip new one
+- Deal new 3x3 village, putting new seals onto buildings that require them
+- Deal out new encounter cards equal to players + 3, sorting into spots by flag
+
+## End game
+
+- We track points as we play, and when you reach certain spaces you'll get a bonus
+- You've got 3 bonus shields. When you hit 8 points, gain the bonus from one of your face up shield tokens and then flip it over.
+- 20 gets you another bonus from a faceup shield, but you'll flip them both facedown (so all of them are now face down)
+
+After the 5 round is over, you'll add these points to your running total:
+
+- Points from quests with your seal on them
+- Points on item cards
+- Objective points from companion cards
+- Points for strength and magic
+    - 2 points if both skills have reached lvl 3
+    - 5 points if they've both reached lvl 5
